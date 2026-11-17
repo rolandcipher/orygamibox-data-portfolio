@@ -71,9 +71,3 @@ python appendix/check_sql_with_duckdb.py    # optional: checks the SQL logic loc
 ```
 
 The SQL files are written for BigQuery. Loading instructions are in each case's `looker_studio/SETUP.md`. The `dashboard_preview.png` files are static previews of the layout; the live dashboards are built in Looker Studio from the BigQuery views.
-
-## About this project
-
-- **Author:** [Your name] - [email] - [LinkedIn / GitHub]
-- **AI assistance:** the synthetic data, the code and the first drafts of the reports were produced with an AI assistant (Claude). *[Author: edit this line to describe your own review and contributions.]*
-- Details on how the data was generated are available on request (`appendix/`).
