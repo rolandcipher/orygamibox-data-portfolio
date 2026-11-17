@@ -1,0 +1,17 @@
+sector,bucket,quotes,win_rate
+Cosmetics,0-2 days,100,0.4
+Cosmetics,3-4 days,270,0.4556
+Cosmetics,5-7 days,247,0.3441
+Cosmetics,8+ days,69,0.2319
+E-commerce & Fashion,0-2 days,355,0.6113
+E-commerce & Fashion,3-4 days,336,0.4613
+E-commerce & Fashion,5-7 days,171,0.2222
+E-commerce & Fashion,8+ days,46,0.0217
+Food & Beverage,0-2 days,228,0.4912
+Food & Beverage,3-4 days,307,0.4169
+Food & Beverage,5-7 days,207,0.2802
+Food & Beverage,8+ days,50,0.06
+Technology,0-2 days,123,0.5203
+Technology,3-4 days,169,0.3787
+Technology,5-7 days,103,0.2621
+Technology,8+ days,26,0.1538

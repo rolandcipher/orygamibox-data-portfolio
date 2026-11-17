@@ -1,0 +1,1136 @@
+order_id,sector,qty_ordered,finish,board_type,print_machine,print_shift,input_units,scrap_units,material_unit_cost,final_price
+O00001,Food & Beverage,5000,No finish,Kraft,M01,Afternoon,5490,378,0.0583,1612.06
+O00002,E-commerce & Fashion,1250,No finish,Kraft,M03,Night,1391,153,0.0864,736.4
+O00003,E-commerce & Fashion,4900,No finish,Kraft,M02,Night,5382,477,0.1575,1975.82
+O00004,Food & Beverage,19200,Matte lamination,Kraft,M01,Morning,20846,1760,0.1519,7137.67
+O00005,E-commerce & Fashion,28200,No finish,Microflute,M02,Morning,30547,1525,0.3612,17394.05
+O00006,E-commerce & Fashion,17600,No finish,Kraft,M03,Morning,19049,1003,0.0903,6042.8
+O00007,Food & Beverage,13200,Matte lamination,SBS,M02,Afternoon,14367,762,0.0984,4546.28
+O00008,Cosmetics,4950,No finish,Coated,M02,Morning,5436,269,0.0468,1424.73
+O00009,E-commerce & Fashion,2850,No finish,Kraft,M02,Night,3168,255,0.0507,998.95
+O00010,E-commerce & Fashion,1500,No finish,Microflute,M03,Morning,1661,106,0.1607,899.39
+O00011,E-commerce & Fashion,18300,No finish,Microflute,M01,Afternoon,19854,1033,0.172,7152.66
+O00012,E-commerce & Fashion,5400,No finish,Microflute,M02,Morning,5922,379,0.1781,2550.25
+O00013,Technology,7200,No finish,Microflute,M02,Night,7867,678,0.1096,2538.45
+O00014,E-commerce & Fashion,750,No finish,Microflute,M03,Morning,851,68,0.1302,577.77
+O00015,E-commerce & Fashion,6000,No finish,SBS,M01,Afternoon,6570,366,0.1807,2540.32
+O00016,E-commerce & Fashion,10100,Matte lamination,SBS,M01,Night,11018,648,0.1345,3715.84
+O00017,Cosmetics,9100,Foil,Coated,M01,Morning,9958,603,0.196,4701.42
+O00018,Food & Beverage,15600,Matte lamination,SBS,M01,Morning,16958,1308,0.0663,4291.4
+O00019,E-commerce & Fashion,8300,No finish,Kraft,M01,Afternoon,9054,409,0.1111,2913.94
+O00020,Food & Beverage,10800,No finish,SBS,M01,Morning,11754,485,0.141,4079.76
+O00021,Cosmetics,3850,Matte lamination,Coated,M01,Morning,4268,435,0.1598,1978.48
+O00022,E-commerce & Fashion,6700,No finish,SBS,M01,Morning,7327,499,0.1848,3596.57
+O00023,E-commerce & Fashion,6300,No finish,Kraft,M01,Morning,6894,451,0.126,2073.74
+O00024,Food & Beverage,2600,No finish,SBS,M02,Morning,2898,239,0.0794,1050.84
+O00025,Food & Beverage,4750,No finish,Kraft,M02,Morning,5220,368,0.1039,1629.56
+O00026,Food & Beverage,1650,No finish,Kraft,M02,Morning,1873,228,0.0305,708.9
+O00027,Food & Beverage,8300,Matte lamination,Coated,M02,Morning,9074,518,0.1082,2808.18
+O00028,Food & Beverage,3850,Matte lamination,Kraft,M02,Night,4268,490,0.099,1646.86
+O00029,E-commerce & Fashion,650,Matte lamination,Kraft,M02,Morning,812,144,0.1531,720.71
+O00030,Technology,1200,Foil,Microflute,M03,Morning,1377,194,0.3102,1325.11
+O00031,Food & Beverage,3700,Matte lamination,Kraft,M01,Morning,4106,406,0.1626,1821.75
+O00032,E-commerce & Fashion,32800,No finish,Microflute,M01,Afternoon,35514,909,0.2179,11731.82
+O00033,Food & Beverage,5100,No finish,Microflute,M01,Night,5598,401,0.2534,3118.72
+O00034,Cosmetics,20600,No finish,Coated,M01,Afternoon,22338,1024,0.0774,5794.86
+O00035,Cosmetics,900,Foil,Coated,M03,Morning,1053,100,0.0905,886.67
+O00036,Food & Beverage,2700,No finish,Microflute,M01,Morning,3006,246,0.1375,1260.89
+O00037,Food & Beverage,2400,Matte lamination,SBS,M02,Morning,2702,259,0.1209,1263.57
+O00038,Food & Beverage,850,No finish,SBS,M02,Morning,1009,116,0.1066,657.62
+O00039,E-commerce & Fashion,7200,No finish,Microflute,M02,Afternoon,7867,1247,0.2506,4108.33
+O00040,Cosmetics,1550,Emboss,SBS,M02,Morning,1804,222,0.1034,989.17
+O00041,Cosmetics,1350,Foil,Coated,M01,Morning,1588,258,0.0893,976.14
+O00042,E-commerce & Fashion,16000,No finish,Kraft,M01,Morning,17370,847,0.0434,3560.82
+O00043,Cosmetics,4650,Foil,SBS,M01,Afternoon,5152,557,0.1274,2703.67
+O00044,E-commerce & Fashion,18500,No finish,Microflute,M01,Night,20070,896,0.095,4764.7
+O00045,E-commerce & Fashion,18800,No finish,Coated,M02,Afternoon,20394,829,0.0778,4965.16
+O00046,Cosmetics,3450,No finish,Microflute,M03,Night,3768,436,0.2073,2252.0
+O00047,E-commerce & Fashion,2000,No finish,Kraft,M02,Morning,2250,218,0.1365,993.53
+O00048,E-commerce & Fashion,5300,No finish,Microflute,M01,Afternoon,5814,298,0.066,1509.67
+O00049,E-commerce & Fashion,1050,No finish,Coated,M02,Night,1224,177,0.1671,794.0
+O00050,E-commerce & Fashion,5800,No finish,Kraft,M01,Afternoon,6354,512,0.1,2062.82
+O00051,E-commerce & Fashion,8100,No finish,Kraft,M01,Afternoon,8838,953,0.138,2827.45
+O00052,Cosmetics,22400,Foil,Coated,M01,Afternoon,24322,2500,0.2249,11784.33
+O00053,Technology,6100,Matte lamination,Coated,M01,Night,6698,546,0.058,2048.85
+O00054,E-commerce & Fashion,8900,No finish,Microflute,M01,Afternoon,9702,638,0.1552,3592.88
+O00055,Cosmetics,19700,No finish,Microflute,M01,Afternoon,21366,1215,0.1174,6086.81
+O00056,Cosmetics,2850,Matte lamination,SBS,M01,Afternoon,3188,469,0.0869,1174.22
+O00057,E-commerce & Fashion,4500,No finish,Kraft,M02,Night,4950,635,0.0585,1330.33
+O00058,E-commerce & Fashion,3050,No finish,Kraft,M01,Afternoon,3384,408,0.0923,1118.98
+O00059,E-commerce & Fashion,53300,No finish,Kraft,M02,Morning,57655,2454,0.0709,10872.05
+O00060,E-commerce & Fashion,14800,No finish,Coated,M01,Morning,16075,658,0.1297,4476.2
+O00061,Technology,2150,Matte lamination,Coated,M01,Morning,2432,230,0.1462,1417.49
+O00062,Technology,7100,No finish,SBS,M01,Afternoon,7759,441,0.1816,3079.51
+O00063,Technology,7600,No finish,Microflute,M01,Morning,8298,625,0.3043,4294.63
+O00064,Cosmetics,4700,Matte lamination,Microflute,M03,Afternoon,5137,272,0.0913,2128.11
+O00065,Technology,3200,Foil,Microflute,M02,Morning,3586,673,0.1853,2059.48
+O00066,E-commerce & Fashion,5700,No finish,Microflute,M02,Morning,6246,347,0.1387,2104.91
+O00067,Technology,6300,No finish,Kraft,M02,Afternoon,6894,536,0.0379,1598.08
+O00068,E-commerce & Fashion,3000,Foil,Kraft,M02,Afternoon,3370,525,0.1025,1532.67
+O00069,Cosmetics,12100,Foil,SBS,M02,Night,13198,2047,0.0552,4614.77
+O00070,E-commerce & Fashion,8800,No finish,Microflute,M02,Night,9594,977,0.1295,2896.56
+O00071,Technology,750,Matte lamination,Coated,M03,Night,871,192,0.1808,776.56
+O00072,E-commerce & Fashion,2800,No finish,Microflute,M01,Morning,3114,239,0.1271,1292.65
+O00073,Cosmetics,750,Emboss,SBS,M02,Morning,940,208,0.0708,865.62
+O00074,Technology,2050,No finish,Kraft,M02,Morning,2304,256,0.1498,1042.97
+O00075,E-commerce & Fashion,4400,No finish,SBS,M02,Morning,4842,397,0.0491,1157.23
+O00076,E-commerce & Fashion,31200,No finish,Microflute,M02,Night,33786,2611,0.1221,8412.48
+O00077,Food & Beverage,4600,No finish,Microflute,M01,Morning,5058,972,0.1477,1834.9
+O00078,Food & Beverage,8800,No finish,Microflute,M01,Afternoon,9594,699,0.1564,3088.24
+O00079,Cosmetics,700,Foil,Coated,M03,Morning,837,127,0.2596,911.25
+O00080,Cosmetics,21200,Foil,SBS,M01,Afternoon,23026,1925,0.1618,10335.67
+O00081,Food & Beverage,5600,Emboss,Kraft,M01,Afternoon,6178,659,0.0534,2280.64
+O00082,Food & Beverage,47200,No finish,Kraft,M01,Night,51066,3339,0.0923,12464.69
+O00083,E-commerce & Fashion,7300,No finish,Microflute,M01,Afternoon,7975,676,0.2313,3455.89
+O00084,Food & Beverage,2500,No finish,SBS,M02,Afternoon,2790,283,0.0654,1159.34
+O00085,Cosmetics,3050,Emboss,Coated,M01,Afternoon,3424,415,0.1168,1686.37
+O00086,Food & Beverage,500,Matte lamination,Kraft,M01,Morning,650,126,0.0732,687.03
+O00087,Technology,8300,Matte lamination,Microflute,M01,Night,9074,1245,0.3564,5973.58
+O00088,Food & Beverage,9500,No finish,Kraft,M02,Afternoon,10350,936,0.0984,3012.67
+O00089,Technology,9500,No finish,Coated,M02,Morning,10350,743,0.1214,3615.07
+O00090,Food & Beverage,7600,No finish,Microflute,M01,Night,8298,655,0.1697,3488.09
+O00091,Cosmetics,5300,Foil,SBS,M01,Morning,5854,1459,0.0553,2148.4
+O00092,E-commerce & Fashion,5000,No finish,Microflute,M01,Morning,5490,677,0.1055,1853.16
+O00093,Technology,9200,Emboss,Coated,M01,Afternoon,10066,527,0.1856,4896.01
+O00094,Technology,8300,Foil,SBS,M01,Afternoon,9094,736,0.1359,4500.28
+O00095,Cosmetics,23700,Emboss,SBS,M03,Morning,25677,2935,0.2647,18101.55
+O00096,Cosmetics,9800,No finish,SBS,M01,Night,10674,599,0.0952,3024.1
+O00097,Cosmetics,13500,Emboss,SBS,M02,Afternoon,14711,1206,0.0551,4189.19
+O00098,E-commerce & Fashion,5600,Matte lamination,Kraft,M02,Afternoon,6158,594,0.0636,1832.62
+O00099,Cosmetics,10700,No finish,Coated,M02,Night,11646,1115,0.103,3393.25
+O00100,Food & Beverage,15900,No finish,Kraft,M03,Morning,17213,994,0.0638,5174.91
+O00101,Cosmetics,2100,Foil,SBS,M02,Night,2398,341,0.1918,1565.13
+O00102,E-commerce & Fashion,20100,No finish,Kraft,M02,Morning,21798,1473,0.0315,3517.68
+O00103,Food & Beverage,7100,Matte lamination,SBS,M01,Morning,7779,613,0.0439,2089.36
+O00104,Food & Beverage,5600,Matte lamination,SBS,M01,Morning,6158,533,0.1401,2925.55
+O00105,Food & Beverage,1600,Matte lamination,Kraft,M03,Morning,1789,182,0.1203,1086.64
+O00106,Technology,1600,No finish,SBS,M01,Afternoon,1818,179,0.0674,808.81
+O00107,Technology,7000,No finish,Microflute,M01,Morning,7651,623,0.0323,1797.52
+O00108,Cosmetics,1750,Foil,Coated,M02,Afternoon,2021,370,0.1203,1342.26
+O00109,E-commerce & Fashion,1350,No finish,SBS,M03,Morning,1499,77,0.2085,944.47
+O00110,E-commerce & Fashion,8100,No finish,Microflute,M02,Afternoon,8838,680,0.1654,2788.92
+O00111,Cosmetics,2100,Foil,Coated,M02,Morning,2398,260,0.0922,1269.98
+O00112,Technology,2650,Matte lamination,SBS,M01,Morning,2972,228,0.0511,1124.89
+O00113,E-commerce & Fashion,750,No finish,SBS,M01,Afternoon,900,122,0.0394,583.01
+O00114,E-commerce & Fashion,600,No finish,Microflute,M01,Afternoon,738,93,0.1468,626.55
+O00115,Technology,2400,No finish,Microflute,M01,Afternoon,2682,508,0.1957,1426.66
+O00116,Cosmetics,6800,Matte lamination,Microflute,M01,Night,7455,930,0.3674,5000.71
+O00117,Technology,4650,Foil,Microflute,M01,Night,5152,696,0.079,2133.72
+O00118,Food & Beverage,1250,Matte lamination,SBS,M03,Morning,1411,90,0.0826,879.98
+O00119,E-commerce & Fashion,12600,No finish,Microflute,M01,Afternoon,13698,1303,0.1764,4765.69
+O00120,E-commerce & Fashion,22900,No finish,Microflute,M01,Night,24822,5422,0.1119,7562.83
+O00121,Food & Beverage,14800,No finish,Microflute,M02,Morning,16075,2016,0.1355,5166.59
+O00122,Food & Beverage,1100,No finish,SBS,M02,Afternoon,1278,173,0.1075,733.43
+O00123,Technology,2000,Matte lamination,Microflute,M01,Afternoon,2270,313,0.2015,1424.32
+O00124,E-commerce & Fashion,14100,Foil,Microflute,M02,Morning,15359,1680,0.0813,5491.16
+O00125,Food & Beverage,2450,Matte lamination,SBS,M01,Afternoon,2756,274,0.1498,1467.46
+O00126,Food & Beverage,19800,Matte lamination,SBS,M01,Night,21494,1207,0.061,4963.13
+O00127,Food & Beverage,3950,No finish,SBS,M02,Afternoon,4356,396,0.15,1659.26
+O00128,E-commerce & Fashion,14500,Emboss,Kraft,M02,Afternoon,15791,1707,0.125,5625.05
+O00129,E-commerce & Fashion,500,No finish,Microflute,M03,Morning,581,89,0.1667,537.36
+O00130,Cosmetics,16700,Matte lamination,Coated,M02,Night,18146,1084,0.2641,8255.59
+O00131,Cosmetics,7400,Matte lamination,Microflute,M02,Morning,8103,693,0.1573,2946.8
+O00132,Technology,4900,Emboss,SBS,M01,Morning,5422,810,0.0976,2487.73
+O00133,Food & Beverage,8700,No finish,SBS,M03,Morning,9437,860,0.1878,4535.53
+O00134,E-commerce & Fashion,11400,No finish,Kraft,M02,Afternoon,12402,678,0.0776,3122.33
+O00135,Technology,2550,Matte lamination,Microflute,M01,Morning,2864,269,0.2153,1810.48
+O00136,Cosmetics,2200,Emboss,Coated,M02,Night,2506,601,0.1457,1369.4
+O00137,E-commerce & Fashion,5900,No finish,Kraft,M02,Morning,6462,408,0.082,1743.01
+O00138,E-commerce & Fashion,16100,No finish,SBS,M01,Morning,17478,838,0.0419,3575.42
+O00139,Cosmetics,2950,Foil,Coated,M01,Afternoon,3316,474,0.1153,1814.82
+O00140,Technology,3450,Matte lamination,SBS,M01,Night,3837,531,0.0872,1476.6
+O00141,Cosmetics,1400,Emboss,Coated,M03,Night,1593,210,0.0582,1056.44
+O00142,E-commerce & Fashion,1950,No finish,Microflute,M02,Morning,2196,207,0.154,1178.09
+O00143,Food & Beverage,12600,Matte lamination,SBS,M01,Morning,13718,3413,0.1941,6574.66
+O00144,E-commerce & Fashion,2550,No finish,Microflute,M01,Afternoon,2844,212,0.1422,1218.55
+O00145,E-commerce & Fashion,5900,No finish,Microflute,M01,Afternoon,6462,440,0.1484,2857.88
+O00146,Food & Beverage,22500,No finish,SBS,M01,Afternoon,24390,1464,0.1057,6587.89
+O00147,Cosmetics,11200,Matte lamination,Coated,M01,Night,12206,678,0.0946,4506.69
+O00148,Food & Beverage,9900,Matte lamination,SBS,M01,Night,10802,785,0.0474,2753.78
+O00149,Food & Beverage,1300,No finish,SBS,M03,Night,1445,92,0.1353,871.59
+O00150,Food & Beverage,17000,Foil,SBS,M02,Morning,18490,1942,0.1552,7508.69
+O00151,Food & Beverage,7100,No finish,Kraft,M03,Morning,7710,537,0.0915,2942.54
+O00152,Food & Beverage,1550,Matte lamination,SBS,M02,Morning,1784,266,0.1112,864.18
+O00153,Food & Beverage,6000,Matte lamination,Kraft,M03,Morning,6541,274,0.058,2680.84
+O00154,E-commerce & Fashion,4350,Matte lamination,SBS,M02,Afternoon,4808,416,0.0586,1617.74
+O00155,E-commerce & Fashion,8200,No finish,Microflute,M02,Morning,8946,1027,0.0988,2524.82
+O00156,E-commerce & Fashion,8000,No finish,Microflute,M01,Morning,8730,785,0.2444,3917.49
+O00157,E-commerce & Fashion,13300,Matte lamination,Microflute,M01,Morning,14475,2626,0.0772,4276.18
+O00158,E-commerce & Fashion,2800,No finish,Kraft,M01,Afternoon,3114,402,0.1106,1229.32
+O00159,Food & Beverage,5300,No finish,Kraft,M01,Afternoon,5814,386,0.086,1905.69
+O00160,Food & Beverage,10400,No finish,Kraft,M01,Night,11322,774,0.0577,2411.82
+O00161,Cosmetics,14600,Matte lamination,Coated,M01,Night,15879,917,0.1096,4904.87
+O00162,Cosmetics,19200,Foil,Coated,M01,Morning,20866,2268,0.1283,7819.03
+O00163,Food & Beverage,6100,Foil,Kraft,M02,Afternoon,6718,610,0.0811,2516.6
+O00164,Technology,9300,No finish,Microflute,M01,Afternoon,10134,885,0.0564,2415.78
+O00165,Technology,15800,No finish,Coated,M02,Afternoon,17154,1176,0.1943,7351.54
+O00166,Technology,750,No finish,Kraft,M01,Morning,900,156,0.1413,561.21
+O00167,Food & Beverage,5900,Matte lamination,SBS,M02,Night,6482,648,0.1905,3009.02
+O00168,Food & Beverage,3000,Foil,Kraft,M02,Night,3370,610,0.2082,2124.54
+O00169,Food & Beverage,2550,No finish,Kraft,M02,Night,2844,246,0.0982,1241.33
+O00170,E-commerce & Fashion,2900,Matte lamination,Kraft,M01,Morning,3242,301,0.0806,1162.93
+O00171,Technology,11700,Matte lamination,Microflute,M01,Morning,12746,736,0.3,8144.07
+O00172,E-commerce & Fashion,4050,No finish,Kraft,M01,Morning,4464,367,0.0447,1083.61
+O00173,Cosmetics,3450,No finish,SBS,M01,Morning,3817,385,0.1067,1466.16
+O00174,Food & Beverage,2250,Matte lamination,SBS,M02,Night,2540,300,0.1346,1401.41
+O00175,E-commerce & Fashion,9900,Matte lamination,Microflute,M02,Night,10802,710,0.2255,4917.3
+O00176,E-commerce & Fashion,36300,Matte lamination,Kraft,M02,Night,39314,2404,0.1409,16520.72
+O00177,E-commerce & Fashion,600,Matte lamination,Microflute,M01,Morning,758,162,0.1531,723.35
+O00178,E-commerce & Fashion,1650,No finish,Kraft,M01,Night,1873,147,0.1221,863.7
+O00179,E-commerce & Fashion,8600,No finish,Microflute,M02,Morning,9378,498,0.0672,2214.07
+O00180,Cosmetics,950,Foil,SBS,M02,Afternoon,1156,177,0.1213,868.13
+O00181,Food & Beverage,1900,Matte lamination,Kraft,M02,Afternoon,2162,243,0.0593,902.94
+O00182,Cosmetics,6100,No finish,SBS,M02,Afternoon,6678,526,0.1692,2727.99
+O00183,E-commerce & Fashion,47800,No finish,Kraft,M02,Night,51714,5858,0.0639,9958.01
+O00184,Cosmetics,7000,Foil,SBS,M02,Afternoon,7691,604,0.0788,2627.69
+O00185,Food & Beverage,2050,Matte lamination,SBS,M02,Afternoon,2324,299,0.1671,1452.94
+O00186,Food & Beverage,3250,Matte lamination,Coated,M02,Afternoon,3621,221,0.0502,1274.85
+O00187,Food & Beverage,50900,Matte lamination,SBS,M02,Night,55082,3148,0.0664,12519.44
+O00188,Cosmetics,1550,Matte lamination,SBS,M01,Morning,1784,212,0.1449,1108.26
+O00189,Cosmetics,1300,Emboss,Microflute,M01,Morning,1534,204,0.141,947.81
+O00190,Food & Beverage,700,No finish,SBS,M03,Morning,797,74,0.0927,570.6
+O00191,Food & Beverage,1050,No finish,Microflute,M03,Afternoon,1175,101,0.2056,872.09
+O00192,Cosmetics,3550,Foil,SBS,M03,Afternoon,3916,282,0.1156,2608.65
+O00193,Technology,10600,Matte lamination,Microflute,M01,Night,11558,694,0.1375,4723.56
+O00194,Technology,1450,Matte lamination,Microflute,M03,Afternoon,1627,175,0.094,877.26
+O00195,Food & Beverage,12300,Matte lamination,Kraft,M02,Morning,13394,1469,0.096,4436.36
+O00196,Technology,3100,Foil,Microflute,M01,Morning,3478,332,0.1551,2006.32
+O00197,Technology,1450,Foil,Microflute,M03,Morning,1647,172,0.0843,1045.64
+O00198,E-commerce & Fashion,33900,Matte lamination,Microflute,M01,Morning,36722,3345,0.1873,15111.86
+O00199,Food & Beverage,3350,No finish,SBS,M01,Afternoon,3709,222,0.0786,1183.52
+O00200,Cosmetics,900,Matte lamination,SBS,M03,Night,1033,88,0.1401,789.64
+O00201,Food & Beverage,2500,No finish,SBS,M01,Afternoon,2790,182,0.1463,1324.51
+O00202,Food & Beverage,1300,No finish,Kraft,M01,Afternoon,1494,301,0.0644,660.61
+O00203,Food & Beverage,4300,No finish,SBS,M01,Night,4734,349,0.087,1451.63
+O00204,E-commerce & Fashion,1800,No finish,Kraft,M03,Night,1986,145,0.1449,1093.55
+O00205,Cosmetics,31200,Foil,Coated,M01,Night,33826,5353,0.081,9943.64
+O00206,Technology,8100,No finish,SBS,M01,Morning,8838,457,0.0485,2289.25
+O00207,Food & Beverage,13800,Foil,Kraft,M01,Morning,15035,1503,0.0434,4483.8
+O00208,Cosmetics,29200,Foil,SBS,M01,Morning,31667,4085,0.2277,18089.99
+O00209,Food & Beverage,4600,No finish,SBS,M01,Night,5058,329,0.1099,1791.96
+O00210,Cosmetics,800,No finish,Coated,M01,Night,954,120,0.0697,564.24
+O00211,Food & Beverage,19800,Matte lamination,SBS,M03,Morning,21445,947,0.0752,6886.62
+O00212,E-commerce & Fashion,6500,No finish,Microflute,M01,Night,7111,804,0.143,2333.79
+O00213,Technology,19200,Matte lamination,Kraft,M01,Night,20846,1002,0.0503,5413.4
+O00214,E-commerce & Fashion,2400,No finish,Kraft,M02,Morning,2682,308,0.0696,959.2
+O00215,E-commerce & Fashion,1200,No finish,Kraft,M03,Afternoon,1337,125,0.0875,792.17
+O00216,E-commerce & Fashion,44500,Foil,SBS,M02,Morning,48190,7041,0.0503,12518.23
+O00217,E-commerce & Fashion,8400,Matte lamination,SBS,M01,Morning,9182,677,0.1318,3338.52
+O00218,Food & Beverage,30400,No finish,SBS,M01,Night,32922,1821,0.0823,7784.47
+O00219,E-commerce & Fashion,3650,No finish,Kraft,M01,Morning,4033,395,0.1482,1675.47
+O00220,Cosmetics,4650,Emboss,SBS,M02,Night,5152,483,0.0829,1898.15
+O00221,Food & Beverage,2100,No finish,Coated,M02,Morning,2358,131,0.121,1042.84
+O00222,E-commerce & Fashion,4400,Matte lamination,Coated,M02,Morning,4862,287,0.0635,1272.24
+O00223,Cosmetics,7100,Emboss,SBS,M01,Morning,7799,572,0.1378,2860.99
+O00224,E-commerce & Fashion,2850,No finish,Microflute,M01,Afternoon,3168,216,0.148,1504.21
+O00225,Cosmetics,3300,Matte lamination,SBS,M01,Afternoon,3675,298,0.1166,1613.32
+O00226,Technology,500,Matte lamination,SBS,M03,Morning,601,77,0.2217,716.66
+O00227,Cosmetics,1950,Matte lamination,SBS,M01,Afternoon,2216,254,0.1239,940.33
+O00228,Food & Beverage,3800,No finish,Coated,M01,Morning,4194,366,0.1095,1410.03
+O00229,E-commerce & Fashion,5300,No finish,Kraft,M02,Night,5814,891,0.1679,2483.68
+O00230,Food & Beverage,800,No finish,SBS,M03,Night,905,73,0.1619,797.78
+O00231,Food & Beverage,3150,No finish,SBS,M01,Night,3492,248,0.1827,1685.21
+O00232,Cosmetics,5500,No finish,Coated,M01,Night,6030,233,0.1478,2251.01
+O00233,E-commerce & Fashion,37200,No finish,Coated,M01,Night,40266,2687,0.0917,10191.94
+O00234,E-commerce & Fashion,500,Matte lamination,Kraft,M01,Afternoon,650,192,0.1223,664.75
+O00235,Food & Beverage,18700,No finish,SBS,M01,Afternoon,20286,1178,0.1038,5918.41
+O00236,E-commerce & Fashion,1800,No finish,Kraft,M03,Night,1986,161,0.0888,886.07
+O00237,Technology,15700,Matte lamination,Microflute,M01,Night,17066,1187,0.1451,6626.87
+O00238,E-commerce & Fashion,1950,No finish,Microflute,M01,Morning,2196,349,0.157,997.31
+O00239,E-commerce & Fashion,7800,No finish,Microflute,M01,Morning,8514,764,0.1135,2781.44
+O00240,Food & Beverage,12300,No finish,Kraft,M01,Afternoon,13374,870,0.1557,4905.94
+O00241,Cosmetics,9400,Matte lamination,Coated,M01,Night,10262,550,0.1091,3599.0
+O00242,E-commerce & Fashion,9800,Matte lamination,Microflute,M01,Night,10694,691,0.1896,3972.1
+O00243,Technology,2100,Matte lamination,Microflute,M02,Morning,2378,261,0.2261,1462.82
+O00244,E-commerce & Fashion,5800,No finish,Microflute,M01,Night,6354,333,0.1695,2351.6
+O00245,Cosmetics,4450,Emboss,SBS,M01,Morning,4936,340,0.1623,2660.1
+O00246,Food & Beverage,10500,Matte lamination,SBS,M01,Morning,11450,777,0.2436,5884.77
+O00247,Food & Beverage,3250,No finish,Coated,M01,Morning,3601,142,0.0488,1142.89
+O00248,E-commerce & Fashion,5500,No finish,Kraft,M01,Morning,6030,1876,0.1148,1839.39
+O00249,Cosmetics,1250,Matte lamination,Coated,M01,Morning,1460,155,0.122,803.5
+O00250,Cosmetics,500,Matte lamination,SBS,M01,Afternoon,650,169,0.1087,593.22
+O00251,Food & Beverage,1100,No finish,SBS,M01,Afternoon,1278,126,0.0596,659.01
+O00252,Technology,5700,Matte lamination,Microflute,M01,Afternoon,6266,526,0.286,4109.04
+O00253,Cosmetics,10500,No finish,SBS,M02,Night,11430,571,0.1098,2802.46
+O00254,E-commerce & Fashion,10700,No finish,Microflute,M02,Morning,11646,1117,0.0772,3048.15
+O00255,Food & Beverage,4100,Matte lamination,Kraft,M03,Night,4489,209,0.155,2872.28
+O00256,Food & Beverage,36900,Matte lamination,Kraft,M02,Afternoon,39962,3224,0.1369,13710.98
+O00257,Food & Beverage,9700,Matte lamination,Kraft,M01,Afternoon,10586,1081,0.0574,2921.28
+O00258,E-commerce & Fashion,2450,Matte lamination,Kraft,M01,Night,2756,256,0.1178,1250.84
+O00259,E-commerce & Fashion,15200,No finish,Microflute,M01,Morning,16506,718,0.2749,7378.27
+O00260,E-commerce & Fashion,13500,No finish,Kraft,M03,Morning,14622,4512,0.0847,4263.31
+O00261,E-commerce & Fashion,2050,Matte lamination,Microflute,M02,Afternoon,2324,259,0.231,1402.76
+O00262,Food & Beverage,3250,Matte lamination,Kraft,M02,Night,3621,407,0.0583,1413.85
+O00263,E-commerce & Fashion,1550,No finish,Microflute,M01,Afternoon,1764,181,0.101,810.82
+O00264,E-commerce & Fashion,1750,Matte lamination,Microflute,M01,Afternoon,2001,256,0.0737,759.93
+O00265,E-commerce & Fashion,3250,No finish,Microflute,M01,Afternoon,3601,413,0.2358,1960.15
+O00266,E-commerce & Fashion,4450,No finish,Coated,M01,Afternoon,4896,622,0.0803,1388.98
+O00267,Cosmetics,550,No finish,SBS,M03,Morning,635,53,0.1319,478.24
+O00268,E-commerce & Fashion,2500,No finish,Microflute,M02,Night,2790,264,0.1687,1299.26
+O00269,E-commerce & Fashion,23000,No finish,Microflute,M01,Night,24930,780,0.152,7857.99
+O00270,Food & Beverage,1350,Matte lamination,Kraft,M03,Morning,1519,105,0.0739,1011.01
+O00271,Cosmetics,1750,No finish,SBS,M02,Afternoon,1981,163,0.208,1106.48
+O00272,Food & Beverage,1100,Matte lamination,Kraft,M02,Night,1298,257,0.1726,973.87
+O00273,Food & Beverage,500,Matte lamination,SBS,M03,Night,601,92,0.0979,575.13
+O00274,Cosmetics,12700,Emboss,Coated,M02,Afternoon,13846,1136,0.0612,3434.23
+O00275,Technology,6800,Matte lamination,Coated,M01,Morning,7455,319,0.0796,2519.5
+O00276,E-commerce & Fashion,5400,No finish,Microflute,M01,Afternoon,5922,566,0.1414,2343.09
+O00277,E-commerce & Fashion,13200,No finish,Kraft,M03,Morning,14298,935,0.0552,3775.91
+O00278,Cosmetics,18800,Emboss,Coated,M02,Afternoon,20434,1346,0.0685,6380.68
+O00279,Food & Beverage,3800,No finish,SBS,M02,Afternoon,4194,272,0.1043,1434.56
+O00280,Food & Beverage,4450,No finish,SBS,M02,Morning,4896,313,0.0521,1427.59
+O00281,E-commerce & Fashion,53700,No finish,Coated,M01,Afternoon,58087,3848,0.0866,13776.55
+O00282,Technology,5700,No finish,Coated,M01,Morning,6246,259,0.1013,2004.23
+O00283,E-commerce & Fashion,13400,No finish,Microflute,M01,Morning,14563,674,0.2504,6528.32
+O00284,Technology,6400,Matte lamination,Microflute,M03,Afternoon,6973,606,0.1631,3739.95
+O00285,Technology,6500,Matte lamination,Microflute,M01,Night,7131,560,0.1069,2721.39
+O00286,Food & Beverage,2250,No finish,Kraft,M01,Morning,2520,189,0.0672,975.54
+O00287,E-commerce & Fashion,4950,No finish,Kraft,M01,Night,5436,326,0.0329,1318.14
+O00288,Cosmetics,2950,Matte lamination,SBS,M02,Morning,3296,271,0.1249,1447.89
+O00289,E-commerce & Fashion,9900,Matte lamination,Kraft,M01,Afternoon,10802,670,0.0685,2831.45
+O00290,Food & Beverage,11000,No finish,SBS,M02,Afternoon,11970,1232,0.081,3095.35
+O00291,E-commerce & Fashion,2400,No finish,Microflute,M01,Night,2682,224,0.1357,1127.13
+O00292,Technology,13700,Matte lamination,SBS,M01,Morning,14907,776,0.2745,9645.65
+O00293,Food & Beverage,11000,No finish,SBS,M02,Night,11970,1389,0.2195,4964.98
+O00294,Cosmetics,6000,Emboss,SBS,M01,Afternoon,6610,493,0.0828,2305.38
+O00295,Cosmetics,18700,Foil,SBS,M01,Afternoon,20326,1735,0.1231,8016.44
+O00296,Cosmetics,32700,Foil,Coated,M01,Night,35446,1931,0.1558,15140.94
+O00297,E-commerce & Fashion,500,No finish,SBS,M02,Morning,630,111,0.0842,543.42
+O00298,Technology,9800,No finish,SBS,M02,Morning,10674,580,0.1534,3718.15
+O00299,Cosmetics,1350,Matte lamination,SBS,M02,Afternoon,1568,193,0.067,739.99
+O00300,Food & Beverage,8700,No finish,SBS,M03,Afternoon,9437,354,0.0379,2968.7
+O00301,Food & Beverage,9500,Matte lamination,SBS,M02,Afternoon,10370,699,0.0815,3075.21
+O00302,Food & Beverage,24100,Foil,Kraft,M02,Night,26158,2542,0.1417,10993.1
+O00303,E-commerce & Fashion,19300,No finish,Kraft,M02,Morning,20934,1074,0.1661,6494.73
+O00304,E-commerce & Fashion,3500,No finish,Microflute,M01,Morning,3871,453,0.2439,2139.37
+O00305,E-commerce & Fashion,44800,No finish,Kraft,M01,Morning,48474,2376,0.1892,16442.59
+O00306,E-commerce & Fashion,2250,No finish,Microflute,M02,Morning,2520,267,0.5197,2872.68
+O00307,Food & Beverage,6100,No finish,SBS,M01,Night,6678,650,0.1062,1761.64
+O00308,E-commerce & Fashion,30400,No finish,Kraft,M01,Afternoon,32922,2463,0.0987,9205.98
+O00309,E-commerce & Fashion,15000,No finish,Microflute,M02,Morning,16291,1560,0.0734,3681.34
+O00310,Food & Beverage,4700,Matte lamination,Kraft,M02,Night,5186,545,0.0474,1335.98
+O00311,Cosmetics,7600,Emboss,Kraft,M02,Night,8338,1713,0.0653,2967.92
+O00312,Food & Beverage,550,No finish,SBS,M03,Afternoon,635,59,0.3218,724.29
+O00313,Food & Beverage,36000,No finish,SBS,M01,Night,38970,2849,0.149,13530.29
+O00314,Cosmetics,1450,Matte lamination,SBS,M01,Morning,1676,191,0.1832,1181.21
+O00315,Food & Beverage,1800,No finish,Kraft,M02,Afternoon,2035,250,0.0881,941.66
+O00316,E-commerce & Fashion,5200,No finish,Kraft,M02,Morning,5706,492,0.0987,1648.24
+O00317,Cosmetics,9700,Emboss,Coated,M01,Morning,10606,778,0.0932,4139.55
+O00318,Cosmetics,2800,Emboss,Microflute,M01,Morning,3154,416,0.1567,1869.52
+O00319,E-commerce & Fashion,700,No finish,Kraft,M03,Afternoon,797,84,0.1572,646.39
+O00320,Cosmetics,2200,Matte lamination,Coated,M01,Afternoon,2486,302,0.1353,1357.66
+O00321,E-commerce & Fashion,8200,Matte lamination,Microflute,M01,Morning,8966,528,0.2097,3721.33
+O00322,Cosmetics,1700,No finish,Coated,M02,Morning,1927,151,0.1547,911.04
+O00323,Food & Beverage,8100,No finish,SBS,M02,Afternoon,8838,547,0.0406,2031.47
+O00324,Cosmetics,4900,Emboss,Coated,M02,Night,5422,480,0.1055,2207.57
+O00325,E-commerce & Fashion,9900,No finish,Kraft,M02,Night,10782,1852,0.073,2625.21
+O00326,E-commerce & Fashion,2100,No finish,Kraft,M01,Morning,2358,213,0.1019,1103.73
+O00327,Technology,2000,No finish,Coated,M03,Night,2201,93,0.1155,1055.81
+O00328,E-commerce & Fashion,4000,No finish,Microflute,M01,Morning,4410,467,0.1094,1475.45
+O00329,Technology,10200,Matte lamination,Microflute,M03,Morning,11077,767,0.1272,4425.2
+O00330,E-commerce & Fashion,20600,No finish,Kraft,M02,Morning,22338,2240,0.0723,4955.75
+O00331,Food & Beverage,2700,Matte lamination,Kraft,M02,Afternoon,3026,287,0.0877,1227.41
+O00332,E-commerce & Fashion,16000,No finish,Kraft,M02,Afternoon,17370,1409,0.2169,7222.41
+O00333,Cosmetics,1800,No finish,SBS,M02,Afternoon,2035,176,0.2627,1256.17
+O00334,E-commerce & Fashion,2000,No finish,Kraft,M01,Morning,2250,228,0.1155,923.35
+O00335,Food & Beverage,7100,No finish,Kraft,M01,Afternoon,7759,713,0.0996,2261.84
+O00336,E-commerce & Fashion,5900,Matte lamination,Microflute,M02,Morning,6482,458,0.1607,2664.26
+O00337,E-commerce & Fashion,12600,No finish,Microflute,M02,Morning,13698,951,0.1989,4675.71
+O00338,E-commerce & Fashion,22300,No finish,Microflute,M02,Morning,24174,1617,0.2473,10409.58
+O00339,Food & Beverage,43800,Matte lamination,SBS,M01,Afternoon,47414,1978,0.135,16770.14
+O00340,Technology,9400,No finish,Microflute,M01,Night,10242,693,0.1416,3517.65
+O00341,Cosmetics,3400,Matte lamination,Coated,M03,Night,3734,201,0.1487,1998.7
+O00342,Food & Beverage,1950,No finish,Kraft,M01,Morning,2196,215,0.0784,879.66
+O00343,Technology,5500,No finish,Microflute,M02,Night,6030,1248,0.136,2390.88
+O00344,Cosmetics,31600,Matte lamination,Coated,M02,Afternoon,34238,1451,0.0957,10988.14
+O00345,E-commerce & Fashion,4400,No finish,Microflute,M01,Morning,4842,283,0.3806,3098.37
+O00346,E-commerce & Fashion,750,Matte lamination,Kraft,M03,Night,871,92,0.2071,761.29
+O00347,E-commerce & Fashion,27300,No finish,Kraft,M01,Afternoon,29575,2235,0.2983,12781.9
+O00348,Cosmetics,9300,Matte lamination,SBS,M02,Morning,10154,489,0.1053,3380.18
+O00349,E-commerce & Fashion,15000,No finish,Microflute,M01,Afternoon,16291,885,0.2119,6123.13
+O00350,Cosmetics,5100,Foil,SBS,M01,Night,5638,505,0.0417,1906.65
+O00351,E-commerce & Fashion,3850,No finish,Microflute,M01,Night,4248,564,0.3051,2577.17
+O00352,Cosmetics,3000,Matte lamination,Kraft,M01,Morning,3350,333,0.11,1552.29
+O00353,E-commerce & Fashion,5500,No finish,Kraft,M01,Morning,6030,565,0.0732,1648.84
+O00354,E-commerce & Fashion,20000,Matte lamination,Microflute,M01,Morning,21710,2794,0.3133,11382.47
+O00355,E-commerce & Fashion,3550,Foil,Coated,M01,Night,3965,327,0.1893,2616.09
+O00356,Cosmetics,44700,Foil,Coated,M02,Morning,48406,2917,0.0764,14752.12
+O00357,E-commerce & Fashion,19600,Matte lamination,Microflute,M02,Morning,21278,1734,0.1445,7546.34
+O00358,Technology,7700,No finish,Microflute,M03,Night,8357,895,0.2024,4528.7
+O00359,Food & Beverage,7800,Matte lamination,SBS,M02,Morning,8534,703,0.1853,3387.21
+O00360,Food & Beverage,28500,No finish,SBS,M02,Morning,30871,2818,0.1602,10533.76
+O00361,Technology,2200,Foil,Microflute,M01,Morning,2506,499,0.2157,1680.6
+O00362,E-commerce & Fashion,26100,No finish,Kraft,M01,Morning,28279,1649,0.1148,8126.66
+O00363,E-commerce & Fashion,17300,Matte lamination,Kraft,M01,Afternoon,18794,1531,0.0427,4232.15
+O00364,E-commerce & Fashion,15600,No finish,SBS,M01,Night,16938,901,0.0722,4625.19
+O00365,Food & Beverage,500,No finish,SBS,M03,Morning,581,58,0.0611,499.24
+O00366,E-commerce & Fashion,1450,No finish,Microflute,M03,Night,1607,391,0.0885,775.4
+O00367,Food & Beverage,2700,Matte lamination,SBS,M01,Night,3026,191,0.097,1037.08
+O00368,E-commerce & Fashion,60000,No finish,SBS,M01,Afternoon,64891,3054,0.0996,16301.83
+O00369,E-commerce & Fashion,4350,No finish,Microflute,M01,Morning,4788,420,0.0672,1314.95
+O00370,Food & Beverage,14000,Matte lamination,SBS,M01,Afternoon,15231,653,0.0988,4464.91
+O00371,Cosmetics,2850,Foil,Coated,M02,Morning,3208,303,0.1654,1925.86
+O00372,E-commerce & Fashion,500,No finish,Kraft,M03,Night,581,52,0.0611,478.21
+O00373,Cosmetics,10200,Matte lamination,SBS,M01,Night,11126,666,0.061,3087.38
+O00374,Cosmetics,17000,Foil,SBS,M01,Night,18490,1148,0.1178,7982.14
+O00375,E-commerce & Fashion,7000,No finish,Microflute,M02,Morning,7651,620,0.0957,2237.06
+O00376,E-commerce & Fashion,5200,No finish,Kraft,M02,Morning,5706,247,0.0765,1563.03
+O00377,E-commerce & Fashion,23900,No finish,Microflute,M03,Night,25853,1197,0.2167,13679.71
+O00378,Food & Beverage,2000,No finish,Kraft,M02,Afternoon,2250,166,0.0582,928.53
+O00379,E-commerce & Fashion,14800,No finish,Microflute,M02,Afternoon,16075,842,0.1823,5954.3
+O00380,E-commerce & Fashion,16600,No finish,Microflute,M02,Morning,18018,710,0.104,4783.38
+O00381,E-commerce & Fashion,6900,No finish,Kraft,M02,Afternoon,7543,524,0.0541,2288.59
+O00382,E-commerce & Fashion,12400,No finish,Kraft,M02,Afternoon,13482,1002,0.0694,3330.27
+O00383,Technology,4550,Matte lamination,Microflute,M02,Night,5024,398,0.1102,1878.94
+O00384,E-commerce & Fashion,4350,No finish,Kraft,M02,Night,4788,467,0.0719,1370.22
+O00385,E-commerce & Fashion,31900,No finish,Microflute,M02,Morning,34542,2630,0.1627,11347.54
+O00386,E-commerce & Fashion,1500,No finish,Microflute,M02,Afternoon,1710,193,0.1377,872.75
+O00387,Cosmetics,6800,Matte lamination,Coated,M02,Morning,7455,426,0.0604,2080.97
+O00388,Food & Beverage,12000,No finish,Kraft,M03,Afternoon,13001,834,0.0992,4619.7
+O00389,Food & Beverage,6500,No finish,Kraft,M01,Morning,7111,472,0.0336,1535.13
+O00390,Cosmetics,37100,Emboss,SBS,M02,Morning,40198,4282,0.1162,15360.23
+O00391,E-commerce & Fashion,9000,No finish,Microflute,M03,Night,9761,1077,0.2432,5520.12
+O00392,Cosmetics,9300,Foil,Coated,M02,Morning,10174,1273,0.1597,4925.55
+O00393,Cosmetics,1900,Emboss,SBS,M01,Morning,2182,311,0.0996,1209.38
+O00394,Cosmetics,60000,No finish,SBS,M01,Morning,64891,2274,0.0977,16746.75
+O00395,E-commerce & Fashion,750,Matte lamination,Kraft,M03,Morning,871,87,0.0645,707.12
+O00396,E-commerce & Fashion,11200,No finish,Kraft,M01,Morning,12186,720,0.1403,3905.72
+O00397,Food & Beverage,4150,No finish,SBS,M01,Morning,4572,479,0.0597,1350.08
+O00398,Cosmetics,4900,Emboss,SBS,M01,Afternoon,5422,435,0.1329,2567.99
+O00399,Cosmetics,750,Matte lamination,Coated,M01,Afternoon,920,153,0.1139,747.53
+O00400,E-commerce & Fashion,31200,No finish,Microflute,M01,Morning,33786,3037,0.1937,12671.93
+O00401,Cosmetics,10500,No finish,SBS,M01,Afternoon,11430,527,0.1237,3685.71
+O00402,E-commerce & Fashion,7100,No finish,SBS,M01,Afternoon,7759,468,0.0643,1849.35
+O00403,Food & Beverage,8000,No finish,Kraft,M01,Night,8730,816,0.0451,2312.88
+O00404,Cosmetics,5800,Foil,Coated,M02,Morning,6394,634,0.0636,2219.92
+O00405,E-commerce & Fashion,12400,No finish,Kraft,M02,Morning,13482,1082,0.1983,4356.42
+O00406,E-commerce & Fashion,1300,Matte lamination,Microflute,M03,Morning,1465,126,0.3392,1202.26
+O00407,E-commerce & Fashion,6200,No finish,Kraft,M02,Night,6786,390,0.077,1736.73
+O00408,Food & Beverage,1700,No finish,SBS,M02,Night,1927,244,0.1361,1005.34
+O00409,Technology,24200,Matte lamination,Microflute,M02,Morning,26246,2358,0.189,12057.54
+O00410,E-commerce & Fashion,12800,No finish,SBS,M02,Afternoon,13914,722,0.0577,3043.49
+O00411,Food & Beverage,3150,Matte lamination,SBS,M01,Morning,3512,266,0.0575,1096.93
+O00412,E-commerce & Fashion,6500,No finish,Kraft,M01,Morning,7111,547,0.0406,1434.3
+O00413,Technology,5200,Matte lamination,SBS,M01,Night,5726,386,0.1383,2564.11
+O00414,Cosmetics,4400,Matte lamination,Coated,M02,Morning,4862,353,0.0755,1722.93
+O00415,Food & Beverage,15100,No finish,Kraft,M01,Morning,16398,940,0.0887,4079.01
+O00416,E-commerce & Fashion,8100,No finish,Kraft,M02,Morning,8838,808,0.0488,1786.33
+O00417,E-commerce & Fashion,6600,Foil,Kraft,M02,Afternoon,7259,744,0.1025,3201.75
+O00418,E-commerce & Fashion,11800,Foil,Microflute,M03,Night,12825,1497,0.1939,6695.21
+O00419,Food & Beverage,1200,No finish,Kraft,M03,Afternoon,1337,126,0.0967,708.45
+O00420,E-commerce & Fashion,8500,No finish,Microflute,M02,Afternoon,9270,1037,0.2626,5054.9
+O00421,Technology,500,Foil,Microflute,M03,Afternoon,621,121,0.0881,770.94
+O00422,Technology,6100,No finish,Coated,M02,Night,6678,335,0.0983,2195.45
+O00423,Food & Beverage,3700,Emboss,SBS,M02,Night,4126,510,0.0817,1742.59
+O00424,Technology,2150,Matte lamination,Kraft,M02,Morning,2432,262,0.0696,1114.4
+O00425,Cosmetics,6100,Matte lamination,SBS,M02,Morning,6698,496,0.0479,2116.7
+O00426,Cosmetics,8100,No finish,Coated,M02,Morning,8838,459,0.1323,3205.92
+O00427,Cosmetics,3550,Emboss,Coated,M02,Night,3965,540,0.1345,2067.8
+O00428,Technology,8400,Matte lamination,Microflute,M03,Afternoon,9133,478,0.0924,3795.09
+O00429,Cosmetics,1400,Foil,SBS,M01,Morning,1642,227,0.1118,1008.29
+O00430,Food & Beverage,6300,No finish,SBS,M03,Night,6845,322,0.106,2647.29
+O00431,E-commerce & Fashion,6400,No finish,Coated,M01,Afternoon,7002,571,0.1548,2411.58
+O00432,E-commerce & Fashion,4800,No finish,Microflute,M03,Afternoon,5225,346,0.2491,3238.86
+O00433,Food & Beverage,2800,No finish,Microflute,M01,Afternoon,3114,161,0.1691,1400.98
+O00434,Technology,13400,No finish,Microflute,M01,Morning,14563,683,0.2813,7222.57
+O00435,Technology,500,No finish,Microflute,M03,Afternoon,581,75,0.0684,475.26
+O00436,Food & Beverage,7200,No finish,SBS,M02,Night,7867,529,0.2343,3639.13
+O00437,Technology,1900,No finish,Microflute,M01,Morning,2142,259,0.2341,1249.01
+O00438,E-commerce & Fashion,5300,No finish,Microflute,M01,Morning,5814,590,0.3807,3891.31
+O00439,E-commerce & Fashion,2600,No finish,Microflute,M01,Afternoon,2898,342,0.2401,1685.46
+O00440,Food & Beverage,1400,Matte lamination,SBS,M01,Afternoon,1622,194,0.1489,853.76
+O00441,Food & Beverage,3650,Matte lamination,SBS,M01,Afternoon,4053,312,0.1299,1882.6
+O00442,Food & Beverage,6500,No finish,Kraft,M01,Night,7111,291,0.0732,1777.7
+O00443,Technology,6200,Emboss,SBS,M01,Morning,6826,676,0.1844,3921.96
+O00444,Food & Beverage,7700,Matte lamination,SBS,M01,Morning,8426,750,0.0761,3001.83
+O00445,Food & Beverage,6200,No finish,Kraft,M01,Morning,6786,408,0.0261,1470.71
+O00446,E-commerce & Fashion,21100,Matte lamination,Microflute,M01,Afternoon,22898,983,0.1503,7609.27
+O00447,Food & Beverage,3100,No finish,Kraft,M03,Morning,3389,180,0.0862,1541.4
+O00448,E-commerce & Fashion,17300,No finish,Kraft,M01,Night,18774,976,0.0811,4948.07
+O00449,Cosmetics,4250,No finish,Coated,M01,Morning,4680,240,0.0598,1601.07
+O00450,Technology,31400,Matte lamination,Microflute,M02,Morning,34022,3029,0.0959,11343.0
+O00451,E-commerce & Fashion,4400,No finish,Kraft,M01,Morning,4842,418,0.1123,1685.77
+O00452,Cosmetics,60000,Matte lamination,SBS,M01,Morning,64911,3768,0.2053,28349.51
+O00453,Food & Beverage,600,No finish,SBS,M02,Afternoon,738,103,0.1212,586.56
+O00454,E-commerce & Fashion,16800,No finish,Kraft,M02,Afternoon,18234,650,0.0502,3754.57
+O00455,E-commerce & Fashion,57000,No finish,Coated,M02,Night,61651,4319,0.0986,15712.02
+O00456,Food & Beverage,14600,No finish,Coated,M02,Night,15859,1382,0.0828,3410.89
+O00457,E-commerce & Fashion,1750,No finish,Kraft,M01,Night,1981,189,0.0935,903.79
+O00458,Food & Beverage,4250,No finish,SBS,M01,Morning,4680,362,0.0608,1427.76
+O00459,E-commerce & Fashion,550,Matte lamination,Microflute,M03,Night,655,100,0.091,600.04
+O00460,E-commerce & Fashion,27100,Matte lamination,Kraft,M02,Morning,29379,1726,0.0699,7044.36
+O00461,E-commerce & Fashion,15400,No finish,SBS,M01,Morning,16722,927,0.075,3932.09
+O00462,E-commerce & Fashion,5800,Matte lamination,Microflute,M03,Afternoon,6325,431,0.2535,4224.33
+O00463,E-commerce & Fashion,21000,Matte lamination,Microflute,M02,Afternoon,22790,2597,0.111,6978.56
+O00464,E-commerce & Fashion,31100,No finish,Kraft,M01,Afternoon,33678,1730,0.1197,9723.7
+O00465,E-commerce & Fashion,600,Emboss,SBS,M03,Afternoon,729,119,0.1027,817.38
+O00466,Technology,1500,Matte lamination,Coated,M02,Night,1730,219,0.0841,946.14
+O00467,Cosmetics,16900,Matte lamination,Coated,M01,Night,18362,1363,0.1704,7581.61
+O00468,Cosmetics,2800,Matte lamination,Coated,M02,Night,3134,248,0.0656,1223.86
+O00469,Cosmetics,3600,Emboss,SBS,M03,Afternoon,3970,272,0.1075,2183.15
+O00470,Cosmetics,1600,No finish,SBS,M03,Morning,1769,107,0.1056,886.41
+O00471,E-commerce & Fashion,20600,No finish,Microflute,M01,Morning,22338,1780,0.1395,6113.14
+O00472,Food & Beverage,600,Matte lamination,SBS,M03,Morning,709,98,0.0711,569.55
+O00473,Cosmetics,2900,No finish,Coated,M01,Afternoon,3222,198,0.1279,1267.81
+O00474,Technology,10500,No finish,Coated,M01,Afternoon,11430,648,0.0852,3375.37
+O00475,Cosmetics,32100,Emboss,SBS,M01,Night,34798,2718,0.194,16519.63
+O00476,Food & Beverage,8100,No finish,SBS,M01,Morning,8838,590,0.1509,3580.49
+O00477,Cosmetics,9100,No finish,SBS,M01,Afternoon,9918,422,0.1157,3216.28
+O00478,E-commerce & Fashion,5000,No finish,Microflute,M01,Afternoon,5490,432,0.0765,1500.0
+O00479,Cosmetics,25000,No finish,SBS,M03,Morning,27041,1116,0.1762,11439.5
+O00480,Cosmetics,1100,Matte lamination,Coated,M03,Night,1249,98,0.0972,782.07
+O00481,Cosmetics,10900,Foil,Coated,M01,Afternoon,11902,1422,0.1167,4559.01
+O00482,Technology,3500,Matte lamination,Microflute,M01,Night,3891,464,0.0895,1471.43
+O00483,Food & Beverage,11600,No finish,Kraft,M01,Night,12618,897,0.1099,3464.04
+O00484,E-commerce & Fashion,8200,No finish,Kraft,M01,Morning,8946,546,0.0906,2584.75
+O00485,Technology,900,Matte lamination,Coated,M02,Morning,1082,158,0.171,818.72
+O00486,Cosmetics,4300,No finish,SBS,M01,Morning,4734,698,0.1605,1832.6
+O00487,Cosmetics,6900,Matte lamination,SBS,M01,Morning,7563,691,0.0841,2667.28
+O00488,Technology,2400,No finish,Coated,M02,Morning,2682,420,0.354,1804.62
+O00489,Cosmetics,3650,Foil,SBS,M02,Morning,4073,625,0.115,2076.19
+O00490,E-commerce & Fashion,34700,No finish,Kraft,M03,Night,37517,1092,0.0688,11498.6
+O00491,Cosmetics,23400,Emboss,Coated,M02,Morning,25402,1472,0.1013,10278.2
+O00492,E-commerce & Fashion,600,No finish,Microflute,M02,Morning,738,161,0.0735,586.32
+O00493,Cosmetics,9600,Matte lamination,SBS,M01,Morning,10478,799,0.2429,4990.27
+O00494,E-commerce & Fashion,5400,Matte lamination,Coated,M01,Afternoon,5942,479,0.0927,1677.36
+O00495,Food & Beverage,800,Matte lamination,SBS,M03,Afternoon,925,95,0.0527,695.11
+O00496,Food & Beverage,8700,No finish,Kraft,M01,Afternoon,9486,1035,0.2059,3637.81
+O00497,E-commerce & Fashion,950,No finish,Microflute,M01,Night,1116,141,0.2106,760.43
+O00498,Food & Beverage,9700,No finish,Coated,M01,Night,10566,431,0.2289,5438.67
+O00499,E-commerce & Fashion,16500,No finish,Microflute,M03,Afternoon,17861,798,0.0954,6070.69
+O00500,Technology,2000,No finish,Microflute,M01,Night,2250,173,0.186,1418.35
+O00501,Cosmetics,3700,Matte lamination,Coated,M01,Morning,4106,239,0.0834,1533.96
+O00502,E-commerce & Fashion,22800,No finish,Kraft,M01,Morning,24714,1726,0.1323,8185.74
+O00503,Food & Beverage,4000,Matte lamination,SBS,M02,Morning,4430,684,0.2075,2289.24
+O00504,E-commerce & Fashion,9600,Matte lamination,Kraft,M02,Afternoon,10478,901,0.1089,3454.14
+O00505,E-commerce & Fashion,38800,No finish,Microflute,M01,Night,41994,1965,0.1153,10529.2
+O00506,E-commerce & Fashion,3750,No finish,Microflute,M02,Afternoon,4140,329,0.4314,3058.82
+O00507,E-commerce & Fashion,7100,Emboss,Microflute,M02,Night,7799,1085,0.1806,3911.6
+O00508,E-commerce & Fashion,4450,No finish,Microflute,M02,Night,4896,245,0.2251,2261.25
+O00509,Technology,1600,Matte lamination,Microflute,M02,Morning,1838,252,0.1857,1266.73
+O00510,Technology,11000,No finish,Microflute,M02,Morning,11970,930,0.1316,3608.44
+O00511,Cosmetics,3050,Matte lamination,SBS,M02,Afternoon,3404,354,0.051,1248.78
+O00512,Food & Beverage,10800,Foil,Kraft,M01,Afternoon,11794,1024,0.0362,3639.86
+O00513,Food & Beverage,3050,No finish,Kraft,M02,Afternoon,3384,446,0.0694,1219.7
+O00514,Food & Beverage,800,Matte lamination,Kraft,M03,Night,925,103,0.0651,705.26
+O00515,Cosmetics,4950,Matte lamination,Coated,M02,Afternoon,5456,613,0.118,2051.57
+O00516,Technology,2000,No finish,Coated,M01,Afternoon,2250,281,0.0813,954.54
+O00517,Cosmetics,8800,Matte lamination,SBS,M01,Morning,9614,684,0.0741,2939.12
+O00518,Technology,5300,No finish,SBS,M03,Afternoon,5765,220,0.1034,2451.95
+O00519,Cosmetics,1450,No finish,SBS,M03,Night,1607,103,0.1117,937.41
+O00520,E-commerce & Fashion,5600,No finish,Kraft,M02,Night,6138,362,0.041,1385.26
+O00521,E-commerce & Fashion,2350,Matte lamination,Kraft,M02,Night,2648,268,0.0393,1069.67
+O00522,Food & Beverage,2350,Matte lamination,Microflute,M02,Night,2648,353,0.0959,1222.12
+O00523,E-commerce & Fashion,8000,Matte lamination,Microflute,M01,Morning,8750,679,0.1444,3198.42
+O00524,E-commerce & Fashion,950,No finish,Kraft,M03,Night,1067,75,0.1096,730.26
+O00525,E-commerce & Fashion,20700,No finish,Kraft,M01,Afternoon,22446,1309,0.0678,4560.3
+O00526,Food & Beverage,35100,Matte lamination,Kraft,M01,Morning,38018,1931,0.2832,22535.58
+O00527,Technology,8700,Matte lamination,Microflute,M02,Afternoon,9506,520,0.1792,4409.56
+O00528,Food & Beverage,12800,Foil,SBS,M01,Morning,13954,1557,0.0807,4549.7
+O00529,E-commerce & Fashion,31900,No finish,Microflute,M01,Morning,34542,1832,0.2671,14812.51
+O00530,Food & Beverage,850,Emboss,SBS,M03,Morning,1000,157,0.1269,850.9
+O00531,Food & Beverage,10900,Matte lamination,SBS,M03,Morning,11833,769,0.0884,4350.31
+O00532,Cosmetics,13400,Matte lamination,SBS,M01,Night,14583,950,0.1335,5393.41
+O00533,E-commerce & Fashion,34400,Matte lamination,Microflute,M02,Morning,37262,2684,0.471,26984.87
+O00534,E-commerce & Fashion,700,No finish,Microflute,M03,Afternoon,797,63,0.1072,590.78
+O00535,Technology,6400,No finish,SBS,M02,Morning,7002,538,0.0646,1972.42
+O00536,Cosmetics,7400,Foil,Coated,M01,Night,8123,559,0.1155,3498.76
+O00537,Cosmetics,1200,Emboss,Coated,M01,Night,1426,264,0.0921,993.93
+O00538,Food & Beverage,750,No finish,Coated,M01,Morning,900,188,0.1586,773.1
+O00539,Technology,3850,No finish,Coated,M01,Afternoon,4248,283,0.1599,1615.99
+O00540,E-commerce & Fashion,14800,No finish,Kraft,M01,Night,16075,1212,0.0684,3759.32
+O00541,E-commerce & Fashion,1000,No finish,Microflute,M03,Night,1121,87,0.0598,670.81
+O00542,Food & Beverage,7700,No finish,SBS,M01,Morning,8406,418,0.1749,3115.29
+O00543,E-commerce & Fashion,6600,No finish,Kraft,M01,Morning,7219,447,0.0715,1947.09
+O00544,Technology,3650,Emboss,Microflute,M01,Afternoon,4073,484,0.2132,2294.44
+O00545,E-commerce & Fashion,2100,No finish,Microflute,M01,Night,2358,216,0.1261,1271.02
+O00546,Food & Beverage,2250,Matte lamination,SBS,M02,Afternoon,2540,274,0.0758,1063.4
+O00547,E-commerce & Fashion,7600,No finish,Kraft,M02,Afternoon,8298,1300,0.0263,1600.61
+O00548,E-commerce & Fashion,1350,No finish,Kraft,M03,Night,1499,72,0.1436,952.01
+O00549,Technology,1750,Matte lamination,SBS,M02,Afternoon,2001,173,0.0824,1007.67
+O00550,E-commerce & Fashion,3250,Matte lamination,Kraft,M02,Night,3621,580,0.1474,1663.18
+O00551,E-commerce & Fashion,5100,No finish,Microflute,M02,Night,5598,785,0.0614,1594.09
+O00552,E-commerce & Fashion,9900,No finish,Coated,M02,Night,10782,755,0.0549,2216.91
+O00553,Technology,3400,No finish,Coated,M01,Morning,3763,341,0.1361,1531.92
+O00554,Cosmetics,5200,No finish,Coated,M02,Morning,5706,365,0.0626,1594.23
+O00555,Cosmetics,1300,Matte lamination,SBS,M03,Morning,1465,126,0.1184,1072.84
+O00556,Cosmetics,2950,Foil,SBS,M02,Morning,3316,459,0.0943,1588.38
+O00557,Food & Beverage,15000,No finish,Microflute,M02,Afternoon,16291,1110,0.1452,4938.43
+O00558,Food & Beverage,59600,No finish,SBS,M02,Morning,64459,2281,0.1051,15375.79
+O00559,E-commerce & Fashion,9500,No finish,Kraft,M01,Morning,10350,898,0.0189,1837.63
+O00560,Cosmetics,39900,Emboss,Coated,M01,Night,43222,6279,0.0922,15363.7
+O00561,Technology,11000,Matte lamination,Microflute,M02,Night,11990,723,0.0765,3398.5
+O00562,E-commerce & Fashion,5600,No finish,Kraft,M01,Morning,6138,671,0.1355,2444.17
+O00563,E-commerce & Fashion,4000,No finish,Microflute,M01,Morning,4410,764,0.1124,1467.16
+O00564,E-commerce & Fashion,5800,Matte lamination,Microflute,M02,Night,6374,446,0.1592,3057.46
+O00565,Cosmetics,14800,No finish,Coated,M02,Night,16075,547,0.136,5071.53
+O00566,Food & Beverage,1350,No finish,SBS,M03,Afternoon,1499,108,0.3728,1449.56
+O00567,Technology,4200,No finish,Microflute,M01,Morning,4626,441,0.1108,1697.37
+O00568,Cosmetics,2150,Emboss,Kraft,M02,Afternoon,2452,492,0.0271,971.0
+O00569,Technology,1800,Matte lamination,Microflute,M02,Afternoon,2054,277,0.0728,955.9
+O00570,Cosmetics,1350,Matte lamination,SBS,M02,Morning,1568,223,0.1839,1117.95
+O00571,E-commerce & Fashion,3200,No finish,Microflute,M01,Afternoon,3546,249,0.1594,1546.49
+O00572,Cosmetics,7500,Foil,SBS,M02,Morning,8230,644,0.0752,2590.28
+O00573,Cosmetics,5500,Foil,SBS,M01,Afternoon,6070,578,0.2351,3960.94
+O00574,E-commerce & Fashion,9200,No finish,Kraft,M01,Night,10026,454,0.1308,3211.05
+O00575,Cosmetics,8300,Foil,SBS,M02,Afternoon,9094,1020,0.0404,2417.46
+O00576,Technology,7200,No finish,Microflute,M02,Night,7867,852,0.1993,3390.1
+O00577,Cosmetics,3700,Foil,SBS,M01,Afternoon,4126,590,0.1596,2463.65
+O00578,Technology,5900,Foil,Microflute,M02,Night,6502,919,0.0924,2754.77
+O00579,Food & Beverage,1000,Matte lamination,Kraft,M03,Night,1141,118,0.0677,769.31
+O00580,Cosmetics,4850,Matte lamination,Coated,M01,Night,5348,414,0.2497,2523.85
+O00581,Food & Beverage,2200,Matte lamination,Coated,M02,Night,2486,288,0.1257,1358.1
+O00582,Cosmetics,1400,No finish,Coated,M03,Night,1553,111,0.2199,1063.37
+O00583,Food & Beverage,17600,Matte lamination,SBS,M02,Night,19118,2400,0.0351,4073.37
+O00584,Technology,4500,Matte lamination,Microflute,M03,Night,4921,253,0.0707,2210.32
+O00585,Food & Beverage,1450,Foil,Kraft,M01,Afternoon,1696,533,0.1858,1323.41
+O00586,Food & Beverage,2450,No finish,SBS,M01,Afternoon,2736,226,0.097,1129.18
+O00587,Cosmetics,14500,Matte lamination,SBS,M02,Morning,15771,1086,0.1497,5839.61
+O00588,E-commerce & Fashion,3100,Foil,Coated,M01,Morning,3478,355,0.2017,2095.91
+O00589,E-commerce & Fashion,3800,No finish,Microflute,M01,Morning,4194,404,0.1404,1525.26
+O00590,Technology,2050,Matte lamination,SBS,M01,Afternoon,2324,254,0.1338,1302.86
+O00591,Food & Beverage,1600,No finish,Kraft,M02,Morning,1818,226,0.0743,805.55
+O00592,Cosmetics,2250,Foil,Coated,M02,Night,2560,439,0.3194,2299.42
+O00593,Cosmetics,9600,No finish,Coated,M01,Night,10458,624,0.0782,2653.84
+O00594,Food & Beverage,3300,Matte lamination,Kraft,M01,Afternoon,3675,352,0.1201,1708.84
+O00595,Cosmetics,2350,Matte lamination,SBS,M02,Night,2648,335,0.1069,1358.8
+O00596,Cosmetics,5100,Emboss,SBS,M01,Night,5638,928,0.0912,2173.19
+O00597,Food & Beverage,11600,No finish,Kraft,M01,Morning,12618,757,0.0765,3334.28
+O00598,E-commerce & Fashion,18400,No finish,Kraft,M01,Morning,19962,2125,0.115,5656.68
+O00599,E-commerce & Fashion,1800,No finish,Kraft,M02,Night,2035,161,0.1692,1156.95
+O00600,Cosmetics,4100,Foil,SBS,M02,Morning,4558,380,0.1719,2589.13
+O00601,E-commerce & Fashion,13000,Matte lamination,Kraft,M02,Morning,14151,813,0.0869,4124.24
+O00602,Food & Beverage,7200,Matte lamination,Coated,M02,Afternoon,7887,841,0.3586,5994.43
+O00603,E-commerce & Fashion,5300,No finish,Kraft,M02,Afternoon,5814,441,0.1246,2234.63
+O00604,Cosmetics,1950,Matte lamination,Coated,M02,Night,2216,197,0.0744,1142.75
+O00605,E-commerce & Fashion,15300,No finish,Kraft,M02,Night,16614,1270,0.1172,4366.63
+O00606,Technology,7100,No finish,Microflute,M02,Night,7759,682,0.1461,2772.83
+O00607,E-commerce & Fashion,3650,No finish,SBS,M02,Night,4033,367,0.1342,1797.04
+O00608,Food & Beverage,2900,No finish,SBS,M02,Morning,3222,299,0.1215,1341.5
+O00609,Food & Beverage,500,No finish,Kraft,M01,Afternoon,630,152,0.0789,468.92
+O00610,Cosmetics,4200,Foil,Coated,M02,Night,4666,492,0.1771,2622.88
+O00611,Cosmetics,1550,No finish,Coated,M01,Afternoon,1764,150,0.1106,823.88
+O00612,E-commerce & Fashion,5400,No finish,Kraft,M01,Afternoon,5922,414,0.029,1195.59
+O00613,Food & Beverage,60000,No finish,Kraft,M01,Afternoon,64891,2196,0.1065,16590.52
+O00614,E-commerce & Fashion,3100,Matte lamination,Microflute,M02,Night,3458,505,0.0826,1181.91
+O00615,E-commerce & Fashion,3650,No finish,Microflute,M02,Night,4033,615,0.0819,1331.94
+O00616,E-commerce & Fashion,8800,No finish,Kraft,M01,Night,9594,1273,0.0788,2600.85
+O00617,Cosmetics,6900,Matte lamination,SBS,M02,Afternoon,7563,624,0.0388,1707.46
+O00618,Cosmetics,2250,Emboss,Coated,M01,Morning,2560,284,0.0826,1196.59
+O00619,Food & Beverage,2150,Foil,Kraft,M03,Afternoon,2403,183,0.0964,1449.15
+O00620,E-commerce & Fashion,4500,No finish,Microflute,M02,Night,4950,753,0.3142,2699.53
+O00621,E-commerce & Fashion,2100,No finish,Kraft,M02,Morning,2358,184,0.0663,874.01
+O00622,Technology,2100,Matte lamination,Microflute,M01,Morning,2378,301,0.1986,1452.9
+O00623,E-commerce & Fashion,14100,No finish,Microflute,M01,Morning,15319,1138,0.1699,4974.49
+O00624,Food & Beverage,4150,Matte lamination,Kraft,M01,Night,4592,420,0.105,1659.13
+O00625,E-commerce & Fashion,2600,No finish,Microflute,M02,Morning,2898,257,0.2317,1520.95
+O00626,Cosmetics,21200,Matte lamination,SBS,M02,Morning,23006,1346,0.0975,6288.67
+O00627,Cosmetics,1100,No finish,SBS,M03,Night,1229,92,0.1082,687.26
+O00628,Food & Beverage,4600,No finish,Coated,M02,Night,5058,506,0.071,1412.15
+O00629,Food & Beverage,3200,Matte lamination,SBS,M02,Night,3566,459,0.1154,1723.3
+O00630,Technology,5100,Emboss,Coated,M01,Morning,5638,597,0.1667,2908.9
+O00631,Cosmetics,6000,Foil,Microflute,M03,Morning,6561,516,0.7323,8537.2
+O00632,Food & Beverage,8300,No finish,SBS,M01,Morning,9054,494,0.1108,2730.86
+O00633,Technology,5800,No finish,SBS,M01,Morning,6354,439,0.186,2744.78
+O00634,E-commerce & Fashion,14900,No finish,Microflute,M02,Morning,16183,940,0.2043,6331.51
+O00635,Cosmetics,10800,Foil,SBS,M02,Afternoon,11794,1786,0.0874,4065.12
+O00636,E-commerce & Fashion,7100,No finish,Coated,M02,Night,7759,304,0.102,2154.47
+O00637,E-commerce & Fashion,2050,No finish,Kraft,M01,Morning,2304,162,0.1628,1040.44
+O00638,E-commerce & Fashion,11800,No finish,SBS,M03,Afternoon,12785,347,0.0919,3723.34
+O00639,E-commerce & Fashion,24800,No finish,Kraft,M02,Morning,26874,1172,0.0827,6982.42
+O00640,Cosmetics,54400,Emboss,SBS,M02,Morning,58883,5271,0.0997,20820.89
+O00641,Food & Beverage,1300,No finish,Kraft,M03,Morning,1445,75,0.0568,661.85
+O00642,Food & Beverage,15600,No finish,Kraft,M02,Morning,16938,890,0.0634,4225.21
+O00643,Cosmetics,1950,Matte lamination,Microflute,M02,Afternoon,2216,216,0.4512,1904.8
+O00644,Cosmetics,11800,Emboss,SBS,M02,Afternoon,12874,1070,0.2261,8254.98
+O00645,E-commerce & Fashion,3550,No finish,SBS,M02,Afternoon,3925,301,0.1103,1392.92
+O00646,Food & Beverage,1300,No finish,Kraft,M03,Afternoon,1445,79,0.118,829.07
+O00647,Technology,5900,Matte lamination,SBS,M02,Afternoon,6482,814,0.2181,3232.57
+O00648,Cosmetics,17200,Foil,SBS,M02,Night,18706,2813,0.033,5140.07
+O00649,E-commerce & Fashion,19700,No finish,Kraft,M02,Night,21366,1039,0.137,5655.0
+O00650,Food & Beverage,9600,No finish,Coated,M01,Morning,10458,683,0.0815,3112.13
+O00651,Technology,4950,Matte lamination,SBS,M02,Afternoon,5456,584,0.0787,1993.64
+O00652,E-commerce & Fashion,3850,No finish,Kraft,M01,Morning,4248,360,0.0924,1197.49
+O00653,E-commerce & Fashion,10100,Matte lamination,Microflute,M02,Afternoon,11018,895,0.4599,8874.76
+O00654,Cosmetics,650,No finish,SBS,M02,Morning,792,122,0.1004,512.83
+O00655,Cosmetics,4650,No finish,SBS,M01,Morning,5112,661,0.3031,3213.45
+O00656,Cosmetics,29900,Emboss,Microflute,M03,Night,32374,2427,0.2467,17272.68
+O00657,E-commerce & Fashion,6100,No finish,Microflute,M01,Night,6678,386,0.1482,2711.11
+O00658,Cosmetics,11200,Emboss,Microflute,M02,Morning,12226,844,0.0624,4297.41
+O00659,E-commerce & Fashion,7300,No finish,Microflute,M02,Afternoon,7975,456,0.15,3030.47
+O00660,E-commerce & Fashion,19900,No finish,Microflute,M02,Night,21582,1269,0.1219,6357.24
+O00661,E-commerce & Fashion,15300,No finish,Kraft,M01,Morning,16614,1032,0.1336,5575.95
+O00662,Technology,16000,Matte lamination,Coated,M01,Morning,17390,1083,0.1815,7530.14
+O00663,Cosmetics,38400,Foil,Coated,M01,Afternoon,41602,2171,0.2464,21264.89
+O00664,E-commerce & Fashion,4550,No finish,Kraft,M01,Night,5004,337,0.0298,1114.22
+O00665,Food & Beverage,3300,No finish,SBS,M02,Night,3655,401,0.0654,1211.73
+O00666,Food & Beverage,1700,No finish,SBS,M01,Morning,1927,300,0.116,818.56
+O00667,E-commerce & Fashion,34700,No finish,Kraft,M01,Morning,37566,1856,0.2138,13693.02
+O00668,Cosmetics,25200,Foil,SBS,M01,Afternoon,27346,1677,0.0753,9276.1
+O00669,Cosmetics,3300,Matte lamination,Coated,M01,Night,3675,468,0.1294,1568.6
+O00670,Cosmetics,8600,Matte lamination,Coated,M01,Morning,9398,799,0.107,2991.77
+O00671,Cosmetics,2500,Foil,SBS,M01,Morning,2830,267,0.1157,1364.73
+O00672,Food & Beverage,4450,No finish,Coated,M01,Night,4896,282,0.0691,1430.06
+O00673,Food & Beverage,1300,No finish,Kraft,M01,Night,1494,168,0.2264,1093.17
+O00674,Technology,1600,Matte lamination,Microflute,M01,Night,1838,220,0.087,927.18
+O00675,Technology,23100,No finish,Microflute,M01,Night,25038,899,0.1653,9269.39
+O00676,E-commerce & Fashion,34800,Matte lamination,SBS,M01,Night,37694,2350,0.0522,8031.52
+O00677,Food & Beverage,3250,Matte lamination,Kraft,M01,Morning,3621,468,0.2232,1997.9
+O00678,Food & Beverage,12600,Matte lamination,SBS,M02,Morning,13718,1098,0.1083,4686.08
+O00679,Cosmetics,60000,Foil,SBS,M02,Morning,64931,3002,0.1189,24424.71
+O00680,Food & Beverage,900,Matte lamination,SBS,M03,Morning,1033,91,0.1531,928.51
+O00681,Food & Beverage,8700,Emboss,SBS,M02,Night,9526,941,0.2672,6108.66
+O00682,Food & Beverage,11300,Matte lamination,SBS,M02,Morning,12314,676,0.161,5695.43
+O00683,Cosmetics,15900,Matte lamination,Coated,M02,Morning,17282,926,0.0477,4122.82
+O00684,Cosmetics,650,Matte lamination,Microflute,M03,Afternoon,763,138,0.6281,1140.71
+O00685,Food & Beverage,5200,Foil,Microflute,M02,Afternoon,5746,720,0.1286,2719.65
+O00686,Food & Beverage,6900,Matte lamination,SBS,M02,Night,7563,404,0.0784,2398.54
+O00687,Cosmetics,2100,Emboss,SBS,M02,Night,2398,263,0.0694,1298.43
+O00688,E-commerce & Fashion,9500,No finish,Microflute,M02,Night,10350,943,0.2492,4847.4
+O00689,Food & Beverage,11000,No finish,Kraft,M02,Afternoon,11970,438,0.2008,4885.8
+O00690,E-commerce & Fashion,800,No finish,SBS,M03,Night,905,73,0.1716,680.92
+O00691,Technology,800,No finish,Microflute,M02,Morning,954,184,0.0438,598.17
+O00692,Food & Beverage,4800,No finish,Coated,M01,Night,5274,293,0.2016,2403.99
+O00693,Food & Beverage,3350,Matte lamination,SBS,M02,Night,3729,299,0.1462,1952.67
+O00694,Cosmetics,2200,Matte lamination,SBS,M02,Morning,2486,268,0.0723,1107.37
+O00695,E-commerce & Fashion,24700,No finish,Coated,M02,Night,26766,1306,0.101,7581.89
+O00696,E-commerce & Fashion,2200,No finish,Microflute,M02,Afternoon,2466,279,0.455,2297.48
+O00697,Food & Beverage,10800,Matte lamination,SBS,M02,Night,11774,930,0.1938,4430.63
+O00698,Technology,2550,Matte lamination,SBS,M02,Morning,2864,455,0.1741,1457.6
+O00699,Cosmetics,10200,Matte lamination,SBS,M02,Morning,11126,424,0.2376,5399.03
+O00700,Cosmetics,4850,Matte lamination,SBS,M02,Afternoon,5348,553,0.0683,1643.72
+O00701,E-commerce & Fashion,4100,No finish,Kraft,M01,Afternoon,4518,299,0.1127,1577.59
+O00702,Food & Beverage,8700,No finish,Microflute,M02,Afternoon,9486,803,0.2073,4109.48
+O00703,Technology,26000,Emboss,SBS,M02,Night,28211,2214,0.1521,12809.88
+O00704,Cosmetics,7000,Matte lamination,Coated,M01,Afternoon,7671,580,0.0922,2345.91
+O00705,Cosmetics,2150,Foil,Coated,M01,Night,2452,353,0.1568,1510.7
+O00706,Food & Beverage,10600,No finish,Microflute,M03,Night,11489,396,0.3459,5987.38
+O00707,E-commerce & Fashion,7400,Matte lamination,Microflute,M01,Night,8103,843,0.1545,3592.0
+O00708,Food & Beverage,2500,Matte lamination,SBS,M03,Afternoon,2761,217,0.0671,1426.03
+O00709,Food & Beverage,10600,Matte lamination,Coated,M02,Morning,11558,1121,0.1164,3750.67
+O00710,Food & Beverage,1700,Matte lamination,Kraft,M02,Morning,1947,421,0.0451,909.56
+O00711,E-commerce & Fashion,4900,Matte lamination,SBS,M01,Morning,5402,429,0.1761,2243.78
+O00712,Technology,4600,Matte lamination,Microflute,M01,Morning,5078,366,0.0829,1827.9
+O00713,Cosmetics,15000,No finish,Coated,M02,Morning,16291,1135,0.2488,7271.95
+O00714,E-commerce & Fashion,8000,No finish,Kraft,M02,Afternoon,8730,399,0.0749,2419.69
+O00715,Technology,16500,No finish,Kraft,M02,Afternoon,17910,1880,0.0921,4787.71
+O00716,Cosmetics,2500,Matte lamination,Coated,M02,Night,2810,409,0.0534,941.43
+O00717,E-commerce & Fashion,9500,No finish,Microflute,M03,Night,10301,544,0.2153,5278.16
+O00718,Cosmetics,5900,Foil,SBS,M02,Night,6502,618,0.0974,2852.63
+O00719,Food & Beverage,26200,Matte lamination,SBS,M02,Morning,28407,1896,0.3016,17878.19
+O00720,Cosmetics,3300,Foil,Microflute,M03,Afternoon,3646,340,0.2035,2754.33
+O00721,E-commerce & Fashion,4000,No finish,Microflute,M02,Afternoon,4410,315,0.097,1474.14
+O00722,Cosmetics,5100,Foil,SBS,M02,Night,5638,500,0.2431,3534.25
+O00723,E-commerce & Fashion,14200,Foil,Kraft,M02,Night,15467,2266,0.1187,6154.69
+O00724,Food & Beverage,8200,Matte lamination,Kraft,M02,Morning,8966,625,0.0615,2880.67
+O00725,E-commerce & Fashion,1250,No finish,Kraft,M02,Morning,1440,148,0.1459,771.0
+O00726,Food & Beverage,13800,Emboss,SBS,M03,Night,14986,729,0.0915,6044.19
+O00727,Cosmetics,6300,Emboss,SBS,M02,Morning,6934,450,0.0476,2306.61
+O00728,Technology,4200,No finish,Coated,M01,Night,4626,323,0.1834,1813.89
+O00729,Food & Beverage,1750,Emboss,SBS,M01,Night,2021,248,0.0913,1179.58
+O00730,Food & Beverage,850,No finish,SBS,M03,Afternoon,960,78,0.119,697.22
+O00731,E-commerce & Fashion,500,No finish,Microflute,M03,Afternoon,581,65,0.224,567.81
+O00732,E-commerce & Fashion,7400,No finish,Microflute,M01,Morning,8083,399,0.0696,1749.36
+O00733,Food & Beverage,1000,No finish,SBS,M01,Morning,1170,121,0.0971,704.95
+O00734,E-commerce & Fashion,29000,No finish,Kraft,M01,Afternoon,31411,1952,0.1422,9872.01
+O00735,Technology,7800,No finish,SBS,M01,Night,8514,580,0.2032,4089.78
+O00736,Food & Beverage,5400,No finish,Coated,M03,Morning,5873,350,0.2265,3230.43
+O00737,E-commerce & Fashion,60000,Matte lamination,Kraft,M01,Night,64911,14165,0.1194,19059.57
+O00738,Cosmetics,11300,Foil,Coated,M02,Night,12334,1586,0.0815,4322.81
+O00739,E-commerce & Fashion,2250,No finish,Kraft,M01,Morning,2520,231,0.1725,1225.05
+O00740,Technology,1600,Matte lamination,Coated,M02,Morning,1838,203,0.3301,1493.2
+O00741,Technology,8700,Matte lamination,Microflute,M02,Morning,9506,1139,0.0889,2953.45
+O00742,E-commerce & Fashion,7700,No finish,Microflute,M01,Night,8406,710,0.0987,2436.07
+O00743,Food & Beverage,2100,No finish,SBS,M02,Night,2358,453,0.0709,758.91
+O00744,Technology,2700,No finish,Coated,M01,Night,3006,242,0.1263,1228.73
+O00745,E-commerce & Fashion,13100,No finish,Kraft,M01,Morning,14239,996,0.12,3929.07
+O00746,Food & Beverage,6900,No finish,SBS,M02,Night,7543,777,0.1517,2754.4
+O00747,Cosmetics,3450,Matte lamination,SBS,M02,Morning,3837,337,0.0845,1587.0
+O00748,Cosmetics,18400,Foil,Coated,M01,Afternoon,20002,1837,0.133,8635.52
+O00749,E-commerce & Fashion,10300,No finish,SBS,M01,Afternoon,11214,464,0.1798,4211.34
+O00750,Cosmetics,6600,Foil,Coated,M01,Night,7259,1031,0.0802,2720.5
+O00751,Food & Beverage,3100,No finish,SBS,M01,Night,3438,286,0.1083,1262.42
+O00752,Technology,6000,Matte lamination,Microflute,M01,Morning,6590,386,0.084,2095.75
+O00753,Food & Beverage,8700,Matte lamination,Kraft,M01,Morning,9506,822,0.105,2819.52
+O00754,Cosmetics,9500,Matte lamination,SBS,M01,Morning,10370,610,0.0657,2895.31
+O00755,Cosmetics,1950,Emboss,Coated,M01,Afternoon,2236,390,0.072,1062.84
+O00756,E-commerce & Fashion,9200,Matte lamination,Microflute,M01,Afternoon,10046,1210,0.0564,2933.19
+O00757,Cosmetics,3850,Emboss,Coated,M01,Morning,4288,421,0.1087,1607.34
+O00758,E-commerce & Fashion,2600,No finish,Microflute,M01,Morning,2898,347,0.1543,1325.74
+O00759,Food & Beverage,13400,Matte lamination,Kraft,M01,Night,14583,1446,0.0906,3899.07
+O00760,Cosmetics,1350,Matte lamination,Coated,M03,Morning,1519,148,0.1245,984.89
+O00761,Food & Beverage,4850,No finish,Coated,M01,Morning,5328,253,0.1978,2433.06
+O00762,Cosmetics,60000,Matte lamination,Coated,M02,Morning,64911,3019,0.1357,21400.18
+O00763,E-commerce & Fashion,11200,No finish,Microflute,M01,Morning,12186,845,0.1134,3208.48
+O00764,Technology,3750,No finish,Microflute,M03,Morning,4092,158,0.1512,1912.47
+O00765,E-commerce & Fashion,500,No finish,Kraft,M03,Afternoon,581,57,0.0916,526.74
+O00766,Food & Beverage,9000,No finish,Microflute,M01,Morning,9810,659,0.0639,2332.69
+O00767,Technology,1050,Emboss,SBS,M02,Night,1264,203,0.1188,990.92
+O00768,Food & Beverage,15700,Matte lamination,SBS,M02,Night,17066,1317,0.1596,6202.55
+O00769,E-commerce & Fashion,4050,No finish,Microflute,M01,Morning,4464,267,0.2193,1867.09
+O00770,Cosmetics,7500,Matte lamination,Coated,M01,Night,8210,530,0.2056,4161.63
+O00771,Food & Beverage,3050,Matte lamination,SBS,M01,Morning,3404,493,0.2164,1983.14
+O00772,E-commerce & Fashion,21600,No finish,Microflute,M01,Morning,23418,1615,0.3092,11687.85
+O00773,Cosmetics,5800,Matte lamination,Coated,M02,Morning,6374,644,0.0669,1999.47
+O00774,Food & Beverage,28500,Matte lamination,SBS,M02,Afternoon,30891,1277,0.1503,11227.59
+O00775,Food & Beverage,1450,No finish,SBS,M03,Night,1607,132,0.0941,933.88
+O00776,E-commerce & Fashion,600,No finish,Coated,M01,Afternoon,738,108,0.2096,628.39
+O00777,E-commerce & Fashion,9600,No finish,Kraft,M01,Morning,10458,766,0.1699,3695.86
+O00778,Cosmetics,5700,No finish,SBS,M02,Morning,6246,508,0.1167,2077.9
+O00779,Cosmetics,2850,Matte lamination,Coated,M02,Afternoon,3188,179,0.0394,1117.95
+O00780,Food & Beverage,2350,No finish,Coated,M02,Afternoon,2628,206,0.0619,849.4
+O00781,E-commerce & Fashion,7000,No finish,Kraft,M02,Afternoon,7651,396,0.0637,1859.92
+O00782,Cosmetics,2700,No finish,Coated,M02,Afternoon,3006,182,0.1819,1398.74
+O00783,E-commerce & Fashion,5700,No finish,Microflute,M02,Night,6246,622,0.1647,2198.49
+O00784,E-commerce & Fashion,3450,No finish,SBS,M02,Night,3817,341,0.0905,1216.02
+O00785,Cosmetics,3500,No finish,SBS,M01,Afternoon,3871,213,0.1422,1590.6
+O00786,E-commerce & Fashion,500,No finish,Microflute,M03,Afternoon,581,75,0.2081,530.93
+O00787,E-commerce & Fashion,19500,No finish,Microflute,M01,Night,21150,1763,0.0871,5028.23
+O00788,Technology,4900,Foil,Kraft,M02,Night,5422,608,0.172,3273.52
+O00789,Food & Beverage,60000,Matte lamination,Coated,M02,Morning,64911,3490,0.1412,20567.43
+O00790,Food & Beverage,2150,Emboss,Kraft,M01,Morning,2452,253,0.0464,1070.59
+O00791,E-commerce & Fashion,13100,No finish,Kraft,M01,Morning,14239,852,0.0542,3121.06
+O00792,Technology,3200,Matte lamination,Microflute,M01,Afternoon,3566,293,0.3118,2463.53
+O00793,E-commerce & Fashion,6900,Matte lamination,Microflute,M01,Afternoon,7563,568,0.1981,3514.07
+O00794,Cosmetics,9900,No finish,SBS,M02,Morning,10782,881,0.1489,3384.52
+O00795,Food & Beverage,18200,No finish,SBS,M01,Night,19746,2145,0.0888,5655.45
+O00796,E-commerce & Fashion,12000,No finish,Microflute,M01,Morning,13050,402,0.2281,5725.36
+O00797,Food & Beverage,3750,No finish,Coated,M01,Morning,4140,652,0.0557,1082.3
+O00798,E-commerce & Fashion,1150,No finish,Kraft,M03,Afternoon,1283,105,0.0498,716.32
+O00799,Food & Beverage,5400,No finish,Kraft,M01,Afternoon,5922,442,0.0596,1715.97
+O00800,Food & Beverage,2600,No finish,Coated,M01,Afternoon,2898,190,0.1779,1210.45
+O00801,Food & Beverage,6500,Matte lamination,Coated,M01,Afternoon,7131,397,0.0829,2010.57
+O00802,Cosmetics,15900,No finish,SBS,M03,Night,17213,1064,0.0696,5299.53
+O00803,Food & Beverage,17500,Foil,SBS,M01,Night,19030,3867,0.1038,7193.21
+O00804,Technology,2250,No finish,Microflute,M01,Afternoon,2520,247,0.1248,1110.03
+O00805,Technology,1400,No finish,SBS,M02,Afternoon,1602,248,0.0436,625.22
+O00806,Cosmetics,2250,Matte lamination,Coated,M02,Afternoon,2540,244,0.108,1182.47
+O00807,Cosmetics,8100,No finish,SBS,M01,Night,8838,727,0.0921,2506.31
+O00808,Cosmetics,500,Matte lamination,SBS,M01,Morning,650,144,0.0537,642.51
+O00809,Cosmetics,2350,Matte lamination,Coated,M01,Morning,2648,356,0.094,1134.93
+O00810,Food & Beverage,1800,Matte lamination,Kraft,M01,Morning,2054,177,0.0528,841.14
+O00811,E-commerce & Fashion,14200,Emboss,Kraft,M02,Night,15467,1028,0.0366,3899.84
+O00812,E-commerce & Fashion,60000,No finish,Kraft,M02,Morning,64891,3563,0.0574,12680.05
+O00813,Cosmetics,33000,Emboss,Coated,M02,Night,35770,3267,0.0695,9976.09
+O00814,E-commerce & Fashion,3300,No finish,Microflute,M02,Morning,3655,534,0.0799,1316.14
+O00815,Cosmetics,9200,Matte lamination,SBS,M02,Afternoon,10046,1012,0.1019,3077.68
+O00816,Food & Beverage,2350,Matte lamination,Coated,M02,Afternoon,2648,285,0.1378,1270.31
+O00817,E-commerce & Fashion,1900,No finish,Kraft,M02,Afternoon,2142,193,0.0433,795.72
+O00818,Cosmetics,7100,Foil,SBS,M02,Morning,7799,791,0.1281,4096.38
+O00819,E-commerce & Fashion,700,Matte lamination,Microflute,M03,Night,817,306,0.1342,682.04
+O00820,Cosmetics,1000,Foil,Microflute,M03,Morning,1161,139,0.0991,901.27
+O00821,Technology,500,Matte lamination,Microflute,M03,Morning,601,111,0.188,541.2
+O00822,Food & Beverage,3150,Matte lamination,SBS,M01,Night,3512,364,0.2185,2241.11
+O00823,Cosmetics,10100,No finish,Microflute,M01,Morning,10998,964,0.2027,3867.45
+O00824,Food & Beverage,4850,No finish,Kraft,M01,Morning,5328,437,0.1043,2047.06
+O00825,Technology,4900,No finish,Coated,M02,Morning,5382,427,0.1052,1723.04
+O00826,Technology,1500,Matte lamination,Microflute,M01,Afternoon,1730,246,0.167,1008.76
+O00827,Food & Beverage,23400,Foil,Coated,M02,Night,25402,2099,0.1959,11927.81
+O00828,Food & Beverage,1150,No finish,SBS,M03,Afternoon,1283,61,0.0944,727.14
+O00829,Technology,30100,Emboss,Microflute,M01,Night,32639,2815,0.1875,13862.46
+O00830,Food & Beverage,2900,No finish,Kraft,M02,Night,3222,206,0.0679,901.46
+O00831,Food & Beverage,3250,Matte lamination,SBS,M01,Night,3621,324,0.0708,1193.56
+O00832,Food & Beverage,7900,Matte lamination,SBS,M01,Night,8642,421,0.1145,3452.61
+O00833,Food & Beverage,6900,No finish,SBS,M02,Night,7543,673,0.2169,3373.85
+O00834,E-commerce & Fashion,35600,Matte lamination,Microflute,M01,Morning,38558,2476,0.1448,13319.88
+O00835,E-commerce & Fashion,8800,No finish,Kraft,M01,Afternoon,9594,596,0.0441,2032.64
+O00836,Technology,5100,Matte lamination,Microflute,M01,Afternoon,5618,401,0.0341,1620.62
+O00837,Cosmetics,500,Emboss,Coated,M01,Morning,670,167,0.1997,781.1
+O00838,Cosmetics,4200,No finish,SBS,M01,Morning,4626,262,0.4124,3495.8
+O00839,Cosmetics,14100,Matte lamination,Microflute,M01,Morning,15339,1277,0.131,5579.97
+O00840,Food & Beverage,49800,Matte lamination,SBS,M01,Morning,53894,2344,0.1295,19240.26
+O00841,E-commerce & Fashion,2200,No finish,Kraft,M02,Morning,2466,207,0.0552,1056.37
+O00842,Food & Beverage,5300,Foil,SBS,M02,Afternoon,5854,538,0.1133,2885.4
+O00843,Cosmetics,1400,Matte lamination,SBS,M03,Afternoon,1573,137,0.1449,1031.2
+O00844,E-commerce & Fashion,5500,Matte lamination,Kraft,M02,Night,6050,452,0.0649,1859.94
+O00845,Food & Beverage,2250,No finish,Kraft,M02,Night,2520,251,0.1346,1127.47
+O00846,Food & Beverage,3300,No finish,Kraft,M03,Afternoon,3606,191,0.0657,1261.09
+O00847,E-commerce & Fashion,3600,No finish,Microflute,M02,Night,3979,448,0.0697,1371.53
+O00848,E-commerce & Fashion,4500,No finish,Kraft,M02,Afternoon,4950,375,0.1308,1680.03
+O00849,Food & Beverage,2550,Matte lamination,SBS,M02,Afternoon,2864,392,0.0842,1182.06
+O00850,Cosmetics,28500,No finish,SBS,M02,Afternoon,30871,2520,0.4863,21501.91
+O00851,Technology,8900,No finish,SBS,M01,Afternoon,9702,1357,0.1856,3611.1
+O00852,E-commerce & Fashion,1450,Matte lamination,Kraft,M02,Night,1676,208,0.0588,709.25
+O00853,E-commerce & Fashion,30100,No finish,Microflute,M01,Morning,32599,4201,0.1323,10028.93
+O00854,Food & Beverage,1650,Foil,Microflute,M02,Night,1913,272,0.2298,1681.53
+O00855,Food & Beverage,3000,Matte lamination,SBS,M03,Morning,3301,318,0.0583,1251.78
+O00856,Food & Beverage,1600,Matte lamination,Kraft,M02,Night,1838,302,0.1099,1112.17
+O00857,Technology,8600,Matte lamination,Coated,M02,Night,9398,611,0.0678,2775.92
+O00858,E-commerce & Fashion,2450,No finish,Kraft,M01,Afternoon,2736,150,0.1021,1208.85
+O00859,Cosmetics,7000,No finish,SBS,M01,Afternoon,7651,714,0.0849,2076.42
+O00860,E-commerce & Fashion,3850,No finish,Microflute,M01,Afternoon,4248,225,0.0813,1433.71
+O00861,E-commerce & Fashion,8300,Foil,Kraft,M02,Morning,9094,1304,0.1159,3554.24
+O00862,Technology,3150,Matte lamination,Microflute,M03,Morning,3463,297,0.1901,2172.43
+O00863,Food & Beverage,1950,No finish,SBS,M02,Morning,2196,181,0.1676,1084.68
+O00864,Technology,1150,No finish,SBS,M01,Afternoon,1332,139,0.0977,685.77
+O00865,Cosmetics,1750,No finish,Coated,M03,Night,1932,101,0.2796,1500.72
+O00866,Cosmetics,6600,Foil,Coated,M01,Morning,7259,534,0.1125,3300.99
+O00867,Food & Beverage,7900,No finish,SBS,M02,Morning,8622,266,0.1178,2383.41
+O00868,E-commerce & Fashion,1550,No finish,Kraft,M02,Morning,1764,182,0.13,783.26
+O00869,Technology,50000,Matte lamination,Coated,M02,Afternoon,54110,8625,0.0932,17182.46
+O00870,E-commerce & Fashion,18300,No finish,Kraft,M02,Morning,19854,1344,0.111,5607.89
+O00871,Cosmetics,2150,Matte lamination,Coated,M02,Afternoon,2432,193,0.2594,1635.3
+O00872,Food & Beverage,1850,No finish,SBS,M02,Night,2088,234,0.1479,1039.4
+O00873,E-commerce & Fashion,2450,No finish,Kraft,M02,Night,2736,266,0.1082,1157.28
+O00874,E-commerce & Fashion,6300,Matte lamination,Kraft,M03,Night,6865,414,0.0875,2846.27
+O00875,Cosmetics,550,No finish,Kraft,M03,Night,635,58,0.0982,522.36
+O00876,Technology,1700,No finish,Microflute,M01,Morning,1927,347,0.0988,873.31
+O00877,E-commerce & Fashion,3200,No finish,Kraft,M01,Morning,3546,449,0.0597,1091.63
+O00878,E-commerce & Fashion,2900,No finish,Microflute,M02,Morning,3222,295,0.2611,1733.61
+O00879,Technology,1050,Emboss,Kraft,M03,Morning,1215,160,0.0353,802.2
+O00880,E-commerce & Fashion,8200,No finish,Kraft,M01,Morning,8946,532,0.0462,1914.59
+O00881,Food & Beverage,2050,Matte lamination,SBS,M02,Night,2324,274,0.2115,1367.69
+O00882,Cosmetics,4900,No finish,Coated,M01,Night,5382,312,0.0443,1571.82
+O00883,Technology,3850,No finish,Microflute,M02,Night,4248,359,0.0384,1099.75
+O00884,Cosmetics,6800,Matte lamination,Coated,M02,Morning,7455,484,0.176,3545.44
+O00885,Technology,1400,Matte lamination,Microflute,M03,Morning,1573,147,0.1835,1155.76
+O00886,Cosmetics,2900,Matte lamination,Coated,M02,Morning,3242,461,0.1055,1469.35
+O00887,E-commerce & Fashion,1400,No finish,Microflute,M03,Morning,1553,139,0.1903,997.32
+O00888,E-commerce & Fashion,500,No finish,Kraft,M03,Morning,581,72,0.0823,505.63
+O00889,E-commerce & Fashion,12700,No finish,Kraft,M01,Afternoon,13806,1082,0.0958,3103.81
+O00890,Food & Beverage,7900,No finish,SBS,M03,Afternoon,8573,618,0.1699,3995.36
+O00891,Food & Beverage,1300,No finish,SBS,M03,Night,1445,201,0.2184,1190.23
+O00892,E-commerce & Fashion,33900,No finish,SBS,M01,Night,36702,1892,0.0652,7377.94
+O00893,E-commerce & Fashion,4850,No finish,Kraft,M01,Afternoon,5328,352,0.0537,1485.42
+O00894,E-commerce & Fashion,51100,Matte lamination,Kraft,M02,Night,55298,5001,0.1065,17452.6
+O00895,E-commerce & Fashion,4800,Matte lamination,Kraft,M01,Night,5294,477,0.07,1816.41
+O00896,E-commerce & Fashion,6500,No finish,Microflute,M02,Night,7111,423,0.1485,2527.99
+O00897,E-commerce & Fashion,4700,Matte lamination,Microflute,M01,Afternoon,5186,296,0.2518,2387.95
+O00898,Technology,3750,No finish,SBS,M01,Afternoon,4140,376,0.0649,1280.72
+O00899,Cosmetics,2600,Matte lamination,SBS,M01,Night,2918,234,0.1298,1576.12
+O00900,E-commerce & Fashion,1800,No finish,Kraft,M02,Afternoon,2035,207,0.1147,884.0
+O00901,E-commerce & Fashion,9500,Matte lamination,Microflute,M02,Afternoon,10370,696,0.0958,3051.33
+O00902,Food & Beverage,9300,Matte lamination,Kraft,M03,Night,10105,885,0.1253,4455.87
+O00903,Technology,4100,Matte lamination,Microflute,M02,Morning,4538,277,0.1541,1951.17
+O00904,E-commerce & Fashion,2250,No finish,Microflute,M02,Night,2520,361,0.1085,958.81
+O00905,E-commerce & Fashion,1500,No finish,Kraft,M02,Night,1710,212,0.0588,637.31
+O00906,E-commerce & Fashion,6900,Matte lamination,Kraft,M01,Night,7563,510,0.1232,2858.55
+O00907,E-commerce & Fashion,11500,No finish,Kraft,M01,Night,12510,645,0.0881,3008.0
+O00908,Cosmetics,2400,Foil,Coated,M01,Afternoon,2722,352,0.1902,2097.24
+O00909,E-commerce & Fashion,11800,Foil,Kraft,M01,Afternoon,12874,1897,0.0697,4441.1
+O00910,E-commerce & Fashion,19400,Matte lamination,Kraft,M01,Night,21062,1546,0.1954,7787.13
+O00911,Cosmetics,500,Foil,Coated,M03,Night,621,117,0.1103,702.22
+O00912,E-commerce & Fashion,3350,No finish,Microflute,M01,Night,3709,366,0.0752,1127.94
+O00913,Cosmetics,1750,Matte lamination,SBS,M01,Morning,2001,208,0.1444,1084.18
+O00914,Technology,1600,No finish,Microflute,M01,Morning,1818,382,0.126,892.69
+O00915,Food & Beverage,950,Foil,Kraft,M02,Night,1156,209,0.0778,864.71
+O00916,Cosmetics,6800,No finish,SBS,M02,Morning,7435,548,0.0773,2124.93
+O00917,Food & Beverage,4050,Matte lamination,Microflute,M01,Morning,4484,352,0.1628,2203.52
+O00918,Cosmetics,4900,Matte lamination,Coated,M02,Afternoon,5402,479,0.1139,2029.2
+O00919,E-commerce & Fashion,25600,No finish,Microflute,M02,Afternoon,27738,1867,0.1741,10323.12
+O00920,Cosmetics,4000,Foil,SBS,M02,Morning,4450,604,0.1244,2412.97
+O00921,E-commerce & Fashion,45800,No finish,SBS,M01,Afternoon,49554,2138,0.0681,11464.79
+O00922,Food & Beverage,3150,Matte lamination,Kraft,M03,Night,3463,325,0.0783,1678.36
+O00923,Food & Beverage,2150,No finish,Kraft,M01,Night,2412,266,0.0663,1018.45
+O00924,Technology,2500,Matte lamination,SBS,M01,Afternoon,2810,287,0.1051,1276.77
+O00925,Food & Beverage,22500,No finish,SBS,M01,Afternoon,24390,632,0.1328,7592.86
+O00926,Cosmetics,500,Foil,SBS,M03,Afternoon,621,151,0.1016,722.15
+O00927,E-commerce & Fashion,6300,Matte lamination,SBS,M01,Night,6914,373,0.3303,4712.72
+O00928,Technology,2100,Matte lamination,Microflute,M02,Afternoon,2378,276,0.0767,983.33
+O00929,E-commerce & Fashion,35200,No finish,Kraft,M01,Morning,38106,2760,0.1189,9482.5
+O00930,Food & Beverage,18300,No finish,Microflute,M02,Night,19854,1258,0.119,5612.98
+O00931,E-commerce & Fashion,5000,No finish,Kraft,M02,Morning,5490,423,0.1136,1752.2
+O00932,E-commerce & Fashion,6200,No finish,Microflute,M02,Afternoon,6786,536,0.2606,2830.12
+O00933,Food & Beverage,14300,Matte lamination,Kraft,M02,Night,15555,1304,0.0904,4184.44
+O00934,E-commerce & Fashion,14900,No finish,Microflute,M03,Afternoon,16134,1398,0.0996,5081.91
+O00935,Food & Beverage,5900,No finish,Microflute,M02,Afternoon,6462,359,0.0653,1643.61
+O00936,Technology,650,No finish,Coated,M03,Afternoon,743,69,0.0553,551.38
+O00937,Cosmetics,1600,Foil,Kraft,M01,Afternoon,1858,316,0.0757,1124.79
+O00938,Cosmetics,36900,Matte lamination,Coated,M01,Night,39962,4827,0.1674,18969.9
+O00939,Food & Beverage,10300,Matte lamination,Kraft,M02,Afternoon,11234,1869,0.1112,3812.61
+O00940,E-commerce & Fashion,4200,No finish,SBS,M02,Afternoon,4626,228,0.2823,2475.55
+O00941,E-commerce & Fashion,8400,No finish,Microflute,M02,Morning,9162,552,0.0896,2512.46
+O00942,Technology,2300,Foil,SBS,M01,Morning,2614,435,0.19,1803.69
+O00943,Cosmetics,750,Matte lamination,SBS,M02,Night,920,127,0.0431,684.82
+O00944,E-commerce & Fashion,3550,No finish,Microflute,M01,Morning,3925,221,0.0666,1227.95
+O00945,E-commerce & Fashion,3200,No finish,Microflute,M01,Morning,3546,450,0.1112,1236.02
+O00946,E-commerce & Fashion,4250,No finish,Kraft,M03,Night,4631,199,0.0875,1831.31
+O00947,Food & Beverage,3300,Matte lamination,SBS,M02,Night,3675,364,0.0927,1421.94
+O00948,Food & Beverage,1000,Foil,Kraft,M01,Afternoon,1210,228,0.0739,882.0
+O00949,Cosmetics,2500,Foil,Kraft,M02,Morning,2830,467,0.0924,1536.7
+O00950,E-commerce & Fashion,4600,No finish,Coated,M01,Afternoon,5058,439,0.1068,1898.27
+O00951,Food & Beverage,2650,No finish,SBS,M01,Afternoon,2952,215,0.0997,1186.71
+O00952,Food & Beverage,16400,No finish,SBS,M01,Night,17802,2433,0.0837,4798.57
+O00953,E-commerce & Fashion,8200,No finish,Microflute,M01,Morning,8946,599,0.1536,3221.22
+O00954,E-commerce & Fashion,5100,No finish,SBS,M01,Morning,5598,275,0.4651,3576.63
+O00955,Cosmetics,2450,Matte lamination,SBS,M01,Afternoon,2756,241,0.0476,1100.32
+O00956,E-commerce & Fashion,2100,No finish,Microflute,M01,Night,2358,171,0.2761,1644.43
+O00957,E-commerce & Fashion,1300,Emboss,Kraft,M01,Night,1534,219,0.0354,900.98
+O00958,Food & Beverage,7800,No finish,Kraft,M02,Morning,8514,400,0.0765,2483.2
+O00959,E-commerce & Fashion,4400,Matte lamination,Kraft,M03,Night,4813,411,0.0941,2403.76
+O00960,E-commerce & Fashion,1150,No finish,Kraft,M03,Night,1283,78,0.073,736.55
+O00961,Technology,2100,Matte lamination,Microflute,M02,Afternoon,2378,326,0.0795,987.38
+O00962,E-commerce & Fashion,5100,No finish,SBS,M02,Afternoon,5598,434,0.1058,1632.15
+O00963,Cosmetics,2600,Foil,SBS,M02,Morning,2938,351,0.1246,1596.22
+O00964,Food & Beverage,3400,Matte lamination,SBS,M01,Night,3783,288,0.1315,1884.46
+O00965,Technology,3250,Matte lamination,Microflute,M01,Morning,3621,328,0.0589,1156.89
+O00966,Cosmetics,25500,Matte lamination,Coated,M01,Night,27650,1557,0.1042,8377.76
+O00967,E-commerce & Fashion,1450,No finish,Kraft,M02,Morning,1656,149,0.0424,607.36
+O00968,Food & Beverage,5600,No finish,SBS,M02,Morning,6138,569,0.0847,2031.73
+O00969,Technology,1200,No finish,Microflute,M03,Night,1337,97,0.2156,931.57
+O00970,E-commerce & Fashion,21500,No finish,SBS,M03,Night,23261,1015,0.2609,12127.47
+O00971,Cosmetics,500,Emboss,SBS,M03,Night,621,178,0.1154,736.45
+O00972,E-commerce & Fashion,1350,No finish,Microflute,M03,Night,1499,225,0.1774,874.41
+O00973,Cosmetics,15300,No finish,Coated,M02,Afternoon,16614,1112,0.1637,5931.91
+O00974,Food & Beverage,2050,No finish,SBS,M02,Night,2304,274,0.2004,1355.2
+O00975,Food & Beverage,3600,No finish,SBS,M02,Morning,3979,330,0.0951,1428.36
+O00976,Food & Beverage,1950,Matte lamination,SBS,M02,Morning,2216,219,0.1506,1141.52
+O00977,E-commerce & Fashion,60000,No finish,Kraft,M02,Morning,64891,2751,0.148,20740.19
+O00978,Food & Beverage,5200,Foil,SBS,M02,Morning,5746,978,0.1508,3076.31
+O00979,E-commerce & Fashion,9300,Matte lamination,Kraft,M02,Night,10154,802,0.1024,3281.96
+O00980,Technology,3700,No finish,Microflute,M01,Morning,4087,321,0.1689,1785.38
+O00981,E-commerce & Fashion,18600,Matte lamination,Kraft,M01,Morning,20198,1174,0.0851,5854.94
+O00982,Food & Beverage,25400,Matte lamination,Kraft,M01,Afternoon,27542,1616,0.129,9436.41
+O00983,Technology,1200,No finish,SBS,M03,Morning,1337,85,0.0669,732.03
+O00984,E-commerce & Fashion,3550,No finish,SBS,M01,Night,3925,267,0.131,1628.66
+O00985,Cosmetics,2000,Matte lamination,Coated,M01,Night,2270,272,0.1,1217.48
+O00986,Technology,1800,Matte lamination,Coated,M01,Morning,2054,194,0.1019,932.21
+O00987,E-commerce & Fashion,10100,No finish,Microflute,M01,Morning,10998,740,0.1038,3331.13
+O00988,Food & Beverage,58700,Matte lamination,SBS,M01,Morning,63507,5971,0.2016,25106.46
+O00989,Technology,6500,No finish,Microflute,M02,Morning,7111,290,0.228,3713.43
+O00990,Food & Beverage,11800,No finish,SBS,M02,Night,12834,1181,0.1117,3877.61
+O00991,E-commerce & Fashion,4200,No finish,Microflute,M01,Night,4626,362,0.1171,1543.76
+O00992,Technology,4650,No finish,Coated,M03,Morning,5063,313,0.1095,2031.62
+O00993,Cosmetics,4000,Foil,Coated,M01,Morning,4450,460,0.1364,2162.37
+O00994,Cosmetics,17200,Foil,Coated,M01,Morning,18706,1575,0.184,10549.86
+O00995,Food & Beverage,13900,Matte lamination,Microflute,M01,Afternoon,15123,715,0.1523,5613.22
+O00996,Cosmetics,3700,Matte lamination,Coated,M01,Morning,4106,257,0.1193,1575.02
+O00997,E-commerce & Fashion,18200,No finish,Kraft,M03,Night,19697,782,0.0803,6184.43
+O00998,Food & Beverage,1300,Foil,Kraft,M01,Morning,1534,275,0.1895,1263.44
+O00999,Food & Beverage,6200,Matte lamination,SBS,M02,Morning,6806,328,0.0647,2130.65
+O01000,Technology,2800,Matte lamination,Microflute,M03,Night,3085,251,0.1182,1511.24
+O01001,Food & Beverage,1150,No finish,Kraft,M01,Morning,1332,156,0.0517,696.22
+O01002,E-commerce & Fashion,10400,No finish,Kraft,M01,Morning,11322,633,0.0556,2754.77
+O01003,Food & Beverage,7700,Matte lamination,Kraft,M02,Night,8426,799,0.0873,3207.65
+O01004,E-commerce & Fashion,2700,No finish,Kraft,M01,Morning,3006,363,0.054,926.3
+O01005,E-commerce & Fashion,8000,No finish,Kraft,M01,Morning,8730,322,0.1272,2626.21
+O01006,Technology,3700,Matte lamination,SBS,M02,Morning,4106,345,0.1962,2231.78
+O01007,Technology,2450,Matte lamination,SBS,M01,Morning,2756,319,0.1064,1191.46
+O01008,E-commerce & Fashion,9600,No finish,SBS,M01,Morning,10458,582,0.0785,2794.08
+O01009,E-commerce & Fashion,10800,No finish,Kraft,M01,Afternoon,11754,624,0.1492,3717.6
+O01010,E-commerce & Fashion,5600,No finish,Microflute,M01,Night,6138,268,0.2458,2814.98
+O01011,E-commerce & Fashion,13400,No finish,Microflute,M01,Night,14563,1389,0.0999,4196.0
+O01012,E-commerce & Fashion,4000,No finish,Kraft,M03,Night,4361,297,0.038,1480.62
+O01013,E-commerce & Fashion,17300,Foil,Kraft,M02,Morning,18814,4476,0.1221,8052.69
+O01014,Cosmetics,4850,No finish,Coated,M02,Night,5328,277,0.1231,1786.2
+O01015,Food & Beverage,16800,Matte lamination,Kraft,M02,Morning,18254,1597,0.0712,5115.55
+O01016,Technology,5000,Matte lamination,Microflute,M02,Morning,5510,388,0.1696,2520.53
+O01017,Food & Beverage,4700,Foil,SBS,M01,Night,5206,521,0.041,1515.25
+O01018,Food & Beverage,1150,No finish,SBS,M03,Night,1283,142,0.0796,689.43
+O01019,E-commerce & Fashion,18700,No finish,Kraft,M02,Morning,20286,1549,0.054,4597.56
+O01020,E-commerce & Fashion,49900,Matte lamination,Coated,M02,Afternoon,54002,3230,0.1747,21700.36
+O01021,Cosmetics,8700,Foil,Coated,M01,Morning,9526,747,0.0664,2909.0
+O01022,Cosmetics,4450,Emboss,SBS,M02,Morning,4936,543,0.0925,1880.82
+O01023,E-commerce & Fashion,9200,Matte lamination,Kraft,M02,Morning,10046,627,0.12,3876.79
+O01024,Food & Beverage,9200,No finish,SBS,M01,Morning,10026,459,0.0596,2416.56
+O01025,E-commerce & Fashion,500,No finish,Kraft,M01,Afternoon,630,125,0.0607,503.42
+O01026,E-commerce & Fashion,12300,No finish,Kraft,M02,Afternoon,13374,2011,0.1792,4326.45
+O01027,Food & Beverage,1400,Matte lamination,SBS,M01,Afternoon,1622,246,0.1327,842.9
+O01028,Cosmetics,14200,Matte lamination,Microflute,M01,Morning,15447,1535,0.101,5481.51
+O01029,Technology,2550,No finish,Microflute,M02,Morning,2844,267,0.2902,1681.49
+O01030,Cosmetics,4400,Foil,Microflute,M01,Afternoon,4882,438,0.1365,2358.36
+O01031,Food & Beverage,6100,No finish,SBS,M03,Night,6629,229,0.1032,2762.08
+O01032,E-commerce & Fashion,2150,Matte lamination,Kraft,M01,Afternoon,2432,225,0.0802,921.6
+O01033,Food & Beverage,1400,Emboss,SBS,M01,Night,1642,253,0.1049,1003.49
+O01034,E-commerce & Fashion,1500,Matte lamination,Kraft,M01,Afternoon,1730,292,0.0329,735.96
+O01035,Food & Beverage,8900,No finish,SBS,M01,Afternoon,9702,737,0.0618,2558.3
+O01036,Technology,1650,Matte lamination,Microflute,M01,Night,1893,254,0.2722,1366.74
+O01037,Technology,7300,Matte lamination,Kraft,M01,Night,7995,675,0.0985,3428.23
+O01038,E-commerce & Fashion,26600,No finish,Microflute,M02,Morning,28819,3081,0.1424,8992.34
+O01039,Cosmetics,6200,No finish,SBS,M02,Morning,6786,433,0.0545,1838.64
+O01040,Cosmetics,7700,Matte lamination,Coated,M01,Morning,8426,399,0.0985,2997.99
+O01041,E-commerce & Fashion,17100,No finish,Microflute,M01,Morning,18558,970,0.2766,9317.78
+O01042,E-commerce & Fashion,60000,No finish,Microflute,M01,Afternoon,64891,3754,0.1871,20494.18
+O01043,Food & Beverage,3300,Foil,SBS,M01,Morning,3695,668,0.1554,2097.38
+O01044,E-commerce & Fashion,3300,Matte lamination,Microflute,M02,Morning,3675,410,0.0607,1313.04
+O01045,E-commerce & Fashion,1600,No finish,Coated,M02,Morning,1818,149,0.0614,776.54
+O01046,E-commerce & Fashion,8200,No finish,Microflute,M03,Morning,8897,224,0.0766,2885.68
+O01047,Technology,1600,Emboss,Microflute,M03,Afternoon,1809,262,0.3224,1534.22
+O01048,Technology,500,No finish,Microflute,M03,Night,581,65,0.2237,611.8
+O01049,E-commerce & Fashion,3900,No finish,Kraft,M01,Morning,4302,454,0.1498,1636.0
+O01050,Technology,1700,No finish,Microflute,M01,Morning,1927,238,0.3179,1333.4
+O01051,Technology,950,No finish,Microflute,M02,Morning,1116,199,0.082,661.76
+O01052,Food & Beverage,43300,Matte lamination,SBS,M01,Afternoon,46874,3004,0.0679,12430.27
+O01053,Cosmetics,2250,Emboss,SBS,M02,Afternoon,2560,299,0.1479,1418.44
+O01054,Food & Beverage,20400,Foil,SBS,M02,Afternoon,22162,2022,0.0716,7043.3
+O01055,E-commerce & Fashion,20000,No finish,Kraft,M02,Night,21690,1753,0.1289,6894.57
+O01056,E-commerce & Fashion,1900,No finish,SBS,M01,Night,2142,169,0.2583,1150.12
+O01057,Technology,6900,Matte lamination,Microflute,M01,Night,7563,513,0.1451,3171.01
+O01058,Cosmetics,1100,No finish,SBS,M03,Morning,1229,73,0.0765,740.11
+O01059,Technology,1350,Matte lamination,Coated,M01,Morning,1568,264,0.104,930.63
+O01060,Food & Beverage,1900,Emboss,Kraft,M02,Morning,2182,345,0.2465,1585.07
+O01061,Technology,5300,Matte lamination,SBS,M01,Morning,5834,1916,0.1192,2313.67
+O01062,E-commerce & Fashion,5900,No finish,Microflute,M02,Night,6462,702,0.1313,2500.02
+O01063,E-commerce & Fashion,2800,No finish,Kraft,M01,Morning,3114,225,0.1695,1221.71
+O01064,Cosmetics,2550,No finish,Coated,M01,Afternoon,2844,160,0.0811,961.34
+O01065,E-commerce & Fashion,500,No finish,Kraft,M03,Morning,581,115,0.0605,489.06
+O01066,E-commerce & Fashion,4600,No finish,Microflute,M01,Night,5058,317,0.1792,2298.36
+O01067,Technology,5900,Matte lamination,Microflute,M01,Morning,6482,611,0.309,4300.15
+O01068,Food & Beverage,1350,Matte lamination,SBS,M01,Morning,1568,204,0.1085,872.4
+O01069,Cosmetics,22400,Emboss,SBS,M02,Night,24322,2613,0.056,6495.92
+O01070,E-commerce & Fashion,5600,No finish,Microflute,M03,Morning,6089,247,0.1715,2837.32
+O01071,Food & Beverage,500,No finish,Coated,M03,Morning,581,60,0.4238,710.46
+O01072,E-commerce & Fashion,17800,No finish,Kraft,M02,Morning,19314,3943,0.0527,4266.18
+O01073,E-commerce & Fashion,3800,No finish,Microflute,M02,Afternoon,4194,839,0.161,1606.71
+O01074,Cosmetics,9400,Foil,Coated,M03,Afternoon,10233,1005,0.2357,7069.17
+O01075,Cosmetics,3050,Matte lamination,Coated,M03,Morning,3355,162,0.1125,1699.19
+O01076,E-commerce & Fashion,8300,No finish,Kraft,M02,Afternoon,9054,490,0.1138,2886.53
+O01077,Food & Beverage,3550,Matte lamination,Kraft,M02,Night,3945,439,0.1812,1924.5
+O01078,E-commerce & Fashion,16100,No finish,Microflute,M02,Morning,17478,1505,0.135,5760.92
+O01079,Technology,13700,Matte lamination,Microflute,M02,Morning,14907,1155,0.3214,10044.9
+O01080,Technology,3200,Matte lamination,SBS,M02,Morning,3566,222,0.2419,2302.27
+O01081,Food & Beverage,2800,Matte lamination,Kraft,M01,Morning,3134,250,0.0291,940.88
+O01082,Technology,2700,No finish,Coated,M01,Afternoon,3006,228,0.2215,1655.68
+O01083,E-commerce & Fashion,7000,No finish,Kraft,M01,Afternoon,7651,577,0.1048,2364.94
+O01084,E-commerce & Fashion,6900,Matte lamination,Kraft,M01,Afternoon,7563,903,0.1521,3145.22
+O01085,Technology,14700,No finish,Microflute,M01,Night,15967,1120,0.0799,3993.7
+O01086,Cosmetics,8100,Matte lamination,SBS,M01,Night,8858,488,0.0636,2524.61
+O01087,E-commerce & Fashion,9000,No finish,SBS,M01,Morning,9810,581,0.116,3297.12
+O01088,Cosmetics,1950,Matte lamination,Coated,M03,Morning,2167,241,0.1003,1233.2
+O01089,E-commerce & Fashion,16400,No finish,SBS,M03,Morning,17753,564,0.0501,5301.53
+O01090,Food & Beverage,4550,Matte lamination,Kraft,M01,Morning,5024,480,0.0539,1516.11
+O01091,Cosmetics,9400,Matte lamination,Coated,M01,Morning,10262,431,0.128,4046.78
+O01092,Cosmetics,11100,No finish,SBS,M02,Morning,12078,534,0.051,2624.37
+O01093,Food & Beverage,6000,No finish,SBS,M01,Morning,6570,394,0.1361,2230.37
+O01094,Food & Beverage,2550,No finish,Kraft,M01,Night,2844,195,0.0651,967.16
+O01095,E-commerce & Fashion,700,No finish,Microflute,M02,Night,846,125,0.0609,556.22
+O01096,Cosmetics,10800,Matte lamination,SBS,M01,Afternoon,11774,940,0.0277,2496.9
+O01097,E-commerce & Fashion,3700,No finish,Kraft,M02,Afternoon,4087,228,0.0884,1420.23
+O01098,Food & Beverage,750,Matte lamination,Microflute,M03,Night,871,151,0.1082,655.65
+O01099,Cosmetics,6200,Foil,SBS,M02,Afternoon,6826,869,0.1087,3541.84
+O01100,Cosmetics,1850,Matte lamination,Coated,M01,Night,2108,177,0.1986,1265.55
+O01101,E-commerce & Fashion,21400,No finish,Kraft,M02,Night,23202,1180,0.0886,5363.74
+O01102,Cosmetics,7400,Foil,Coated,M01,Morning,8123,707,0.245,5170.81
+O01103,Food & Beverage,3600,Matte lamination,SBS,M01,Morning,3999,304,0.1284,2159.45
+O01104,Cosmetics,2450,No finish,Coated,M01,Morning,2736,172,0.0938,1063.69
+O01105,E-commerce & Fashion,2850,No finish,Microflute,M01,Afternoon,3168,412,0.1094,1202.4
+O01106,Food & Beverage,2450,No finish,SBS,M01,Afternoon,2736,278,0.0591,1001.84
+O01107,Cosmetics,4900,Matte lamination,SBS,M01,Morning,5402,508,0.1048,2023.88
+O01108,E-commerce & Fashion,9700,Matte lamination,Kraft,M01,Morning,10586,733,0.0702,3517.57
+O01109,Food & Beverage,18400,Matte lamination,SBS,M01,Morning,19982,1050,0.11,7018.41
+O01110,Food & Beverage,500,Matte lamination,SBS,M01,Morning,650,137,0.0693,635.55
+O01111,E-commerce & Fashion,26200,No finish,Microflute,M02,Morning,28387,921,0.154,10160.43
+O01112,E-commerce & Fashion,1200,No finish,Kraft,M03,Night,1337,98,0.0666,832.4
+O01113,Cosmetics,41200,Emboss,Coated,M01,Afternoon,44626,2372,0.1188,14413.18
+O01114,E-commerce & Fashion,1250,No finish,Kraft,M03,Morning,1391,121,0.03,642.14
+O01115,Food & Beverage,1400,No finish,Kraft,M03,Night,1553,81,0.0977,868.17
+O01116,Cosmetics,35200,Foil,Coated,M01,Night,38146,3354,0.1938,16711.2
+O01117,Food & Beverage,5600,Matte lamination,Kraft,M02,Night,6158,565,0.0319,1817.41
+O01118,Food & Beverage,950,No finish,Microflute,M03,Morning,1067,149,0.1672,779.78
+O01119,E-commerce & Fashion,2100,No finish,Microflute,M02,Night,2358,205,0.1656,1137.74
+O01120,Food & Beverage,1250,No finish,Kraft,M03,Morning,1391,92,0.0471,773.01
+O01121,Food & Beverage,3350,No finish,Kraft,M02,Night,3709,395,0.0585,1164.76
+O01122,E-commerce & Fashion,24600,No finish,Coated,M03,Morning,26609,1182,0.0881,7923.89
+O01123,E-commerce & Fashion,4200,No finish,Kraft,M03,Afternoon,4577,202,0.1295,2153.56
+O01124,Technology,3550,Matte lamination,Microflute,M02,Morning,3945,717,0.2037,1935.28
+O01125,Food & Beverage,6700,Matte lamination,SBS,M01,Morning,7347,751,0.1027,2311.52
+O01126,Food & Beverage,1600,No finish,SBS,M02,Night,1818,212,0.2763,1387.57
+O01127,Cosmetics,36300,No finish,Coated,M02,Morning,39294,1522,0.1802,15175.53
+O01128,E-commerce & Fashion,500,Matte lamination,Microflute,M02,Morning,650,163,0.0871,586.28
+O01129,E-commerce & Fashion,8300,No finish,Kraft,M02,Morning,9054,1136,0.0356,2015.24
+O01130,Food & Beverage,8500,No finish,Coated,M01,Afternoon,9270,532,0.1311,3021.21
+O01131,Cosmetics,6700,Foil,SBS,M02,Morning,7367,806,0.1982,4091.78
+O01132,E-commerce & Fashion,2850,No finish,Microflute,M01,Morning,3168,384,0.1503,1494.83
+O01133,Food & Beverage,800,No finish,Kraft,M03,Night,905,137,0.0761,494.43
+O01134,E-commerce & Fashion,1550,No finish,Coated,M02,Morning,1764,184,0.1194,892.29
+O01135,Food & Beverage,2100,Matte lamination,SBS,M01,Afternoon,2378,303,0.1187,1241.06

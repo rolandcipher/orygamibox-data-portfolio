@@ -1,0 +1,325 @@
+{
+  "orders": 1135,
+  "on_time_rate": 0.6845814977973568,
+  "late_orders": 358,
+  "avg_days_late_when_late": 4.016759776536313,
+  "lead_time_p50": 16.0,
+  "lead_time_p90": 21.600000000000023,
+  "on_time_q4": 0.5415472779369628,
+  "on_time_rest": 0.7480916030534351,
+  "on_time_by_quarter": {
+    "2024Q1": 0.861,
+    "2024Q2": 0.644,
+    "2024Q3": 0.857,
+    "2024Q4": 0.5,
+    "2025Q1": 0.832,
+    "2025Q2": 0.641,
+    "2025Q3": 0.746,
+    "2025Q4": 0.584,
+    "2026Q1": 0.667
+  },
+  "on_time_by_size": [
+    {
+      "order_size": "Under 1,000",
+      "size": 80,
+      "mean": 0.3
+    },
+    {
+      "order_size": "1,000-2,999",
+      "size": 283,
+      "mean": 0.587
+    },
+    {
+      "order_size": "3,000-9,999",
+      "size": 477,
+      "mean": 0.665
+    },
+    {
+      "order_size": "10,000+",
+      "size": 295,
+      "mean": 0.915
+    }
+  ],
+  "on_time_by_sector": {
+    "Cosmetics": 0.811,
+    "E-commerce & Fashion": 0.586,
+    "Food & Beverage": 0.698,
+    "Technology": 0.704
+  },
+  "on_time_by_client_size": {
+    "Large": 0.78,
+    "Medium": 0.709,
+    "Small": 0.507
+  },
+  "on_time_by_finish": {
+    "No finish": 0.578,
+    "With finish": 0.804
+  },
+  "promise_vs_reality": [
+    {
+      "order_size": "Under 1,000",
+      "orders": 80,
+      "avg_promised_days": 13.58,
+      "actual_p50": 16.0,
+      "actual_p75": 18.25,
+      "actual_p90": 21.1,
+      "on_time_rate": 0.3
+    },
+    {
+      "order_size": "1,000-2,999",
+      "orders": 283,
+      "avg_promised_days": 15.89,
+      "actual_p50": 16.0,
+      "actual_p75": 18.0,
+      "actual_p90": 20.0,
+      "on_time_rate": 0.59
+    },
+    {
+      "order_size": "3,000-9,999",
+      "orders": 477,
+      "avg_promised_days": 17.68,
+      "actual_p50": 16.0,
+      "actual_p75": 19.0,
+      "actual_p90": 21.0,
+      "on_time_rate": 0.66
+    },
+    {
+      "order_size": "10,000+",
+      "orders": 295,
+      "avg_promised_days": 23.46,
+      "actual_p50": 17.0,
+      "actual_p75": 21.0,
+      "actual_p90": 22.0,
+      "on_time_rate": 0.92
+    }
+  ],
+  "stage_table": [
+    {
+      "stage": "Printing",
+      "runs": 1135,
+      "wait_p50": 138.75,
+      "wait_p90": 246.523,
+      "process_p50": 3.033,
+      "process_p90": 8.88,
+      "wait_total": 176396.917,
+      "share_of_waiting": 0.521
+    },
+    {
+      "stage": "Finishing",
+      "runs": 535,
+      "wait_p50": 9.633,
+      "wait_p90": 65.3,
+      "process_p50": 4.0,
+      "process_p90": 16.273,
+      "wait_total": 13291.05,
+      "share_of_waiting": 0.039
+    },
+    {
+      "stage": "Die-cutting",
+      "runs": 1135,
+      "wait_p50": 41.05,
+      "wait_p90": 136.76,
+      "process_p50": 10.8,
+      "process_p90": 41.057,
+      "wait_total": 64733.067,
+      "share_of_waiting": 0.191
+    },
+    {
+      "stage": "Gluing",
+      "runs": 1135,
+      "wait_p50": 34.4,
+      "wait_p90": 99.13,
+      "process_p50": 3.183,
+      "process_p90": 10.877,
+      "wait_total": 50812.883,
+      "share_of_waiting": 0.15
+    },
+    {
+      "stage": "Quality control",
+      "runs": 1135,
+      "wait_p50": 5.233,
+      "wait_p90": 12.813,
+      "process_p50": 0.967,
+      "process_p90": 2.667,
+      "wait_total": 7622.9,
+      "share_of_waiting": 0.023
+    },
+    {
+      "stage": "Dispatch",
+      "runs": 1135,
+      "wait_p50": 17.883,
+      "wait_p90": 43.783,
+      "process_p50": 14.283,
+      "process_p90": 31.687,
+      "wait_total": 25630.717,
+      "share_of_waiting": 0.076
+    }
+  ],
+  "machine_busy_share": {
+    "M01": 0.123,
+    "M02": 0.109,
+    "M03": 0.06,
+    "M04": 0.089,
+    "M05": 0.12,
+    "M06": 0.544,
+    "M07": 0.607,
+    "M08": 0.324
+  },
+  "downtime_hours_by_machine": {
+    "M01": 384.0,
+    "M02": 621.0,
+    "M03": 282.0,
+    "M04": 317.0,
+    "M05": 498.0,
+    "M06": 403.0,
+    "M07": 778.0,
+    "M08": 385.0
+  },
+  "downtime_cause_hours": {
+    "Breakdown": 1608.0,
+    "Changeover": 253.0,
+    "Other": 284.0,
+    "Scheduled maintenance": 942.0,
+    "Unknown": 119.0,
+    "Waiting for material": 463.0
+  },
+  "delay_drivers": [
+    {
+      "delivery": "Late",
+      "pre_production_days": 7.32,
+      "between_stage_days": 7.87,
+      "process_days": 1.61,
+      "downtime_days": 0.41
+    },
+    {
+      "delivery": "On time",
+      "pre_production_days": 6.08,
+      "between_stage_days": 5.07,
+      "process_days": 2.26,
+      "downtime_days": 0.32
+    }
+  ],
+  "scenario_halve_diecut_queue": {
+    "on_time_now": 0.6845814977973568,
+    "on_time_after": 0.7444933920704846,
+    "late_orders_recovered": 68
+  },
+  "purchase_orders": {
+    "share_of_orders": 0.23171806167400882,
+    "pre_production_days_with_purchase": 9.242876003379806,
+    "pre_production_days_without": 5.641049471202855,
+    "on_time_with_purchase": 0.6539923954372624,
+    "on_time_without": 0.6938073394495413
+  },
+  "suppliers": [
+    {
+      "supplier_id": "S03",
+      "supplier_name": "Pacific Board Co.",
+      "main_material": "SBS",
+      "purchases": 37,
+      "avg_days_late": 4.486,
+      "orders_waiting": 26,
+      "on_time_rate": 0.577
+    },
+    {
+      "supplier_id": "S07",
+      "supplier_name": "Andean Kraft",
+      "main_material": "Kraft",
+      "purchases": 37,
+      "avg_days_late": 2.378,
+      "orders_waiting": 28,
+      "on_time_rate": 0.5
+    },
+    {
+      "supplier_id": "S02",
+      "supplier_name": "Cartonera Sur",
+      "main_material": "SBS",
+      "purchases": 26,
+      "avg_days_late": 1.154,
+      "orders_waiting": 21,
+      "on_time_rate": 0.905
+    },
+    {
+      "supplier_id": "S10",
+      "supplier_name": "Corrugados del Plata",
+      "main_material": "Microflute",
+      "purchases": 46,
+      "avg_days_late": 1.13,
+      "orders_waiting": 34,
+      "on_time_rate": 0.559
+    },
+    {
+      "supplier_id": "S12",
+      "supplier_name": "FoilTech",
+      "main_material": "Foil",
+      "purchases": 24,
+      "avg_days_late": 1.042,
+      "orders_waiting": 0,
+      "on_time_rate": NaN
+    },
+    {
+      "supplier_id": "S04",
+      "supplier_name": "Coat & Cover",
+      "main_material": "Coated",
+      "purchases": 33,
+      "avg_days_late": 0.939,
+      "orders_waiting": 21,
+      "on_time_rate": 0.81
+    },
+    {
+      "supplier_id": "S01",
+      "supplier_name": "Northline Paperboard",
+      "main_material": "SBS",
+      "purchases": 36,
+      "avg_days_late": 0.917,
+      "orders_waiting": 30,
+      "on_time_rate": 0.7
+    },
+    {
+      "supplier_id": "S09",
+      "supplier_name": "FlutePro",
+      "main_material": "Microflute",
+      "purchases": 44,
+      "avg_days_late": 0.886,
+      "orders_waiting": 34,
+      "on_time_rate": 0.706
+    },
+    {
+      "supplier_id": "S08",
+      "supplier_name": "Rio Kraft Mills",
+      "main_material": "Kraft",
+      "purchases": 24,
+      "avg_days_late": 0.875,
+      "orders_waiting": 21,
+      "on_time_rate": 0.571
+    },
+    {
+      "supplier_id": "S11",
+      "supplier_name": "InkWorks",
+      "main_material": "Inks & varnish",
+      "purchases": 24,
+      "avg_days_late": 0.833,
+      "orders_waiting": 0,
+      "on_time_rate": NaN
+    },
+    {
+      "supplier_id": "S05",
+      "supplier_name": "Brillo Papers",
+      "main_material": "Coated",
+      "purchases": 31,
+      "avg_days_late": 0.581,
+      "orders_waiting": 21,
+      "on_time_rate": 0.571
+    },
+    {
+      "supplier_id": "S06",
+      "supplier_name": "EcoKraft",
+      "main_material": "Kraft",
+      "purchases": 37,
+      "avg_days_late": 0.541,
+      "orders_waiting": 27,
+      "on_time_rate": 0.704
+    }
+  ],
+  "diecut_wait_corr_with_late": 0.3573903094018445
+}

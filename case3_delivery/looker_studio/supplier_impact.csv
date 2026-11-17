@@ -1,0 +1,13 @@
+supplier_id,supplier_name,main_material,purchases,avg_days_late,orders_waiting,on_time_rate
+S03,Pacific Board Co.,SBS,37,4.486,26,0.577
+S07,Andean Kraft,Kraft,37,2.378,28,0.5
+S02,Cartonera Sur,SBS,26,1.154,21,0.905
+S10,Corrugados del Plata,Microflute,46,1.13,34,0.559
+S12,FoilTech,Foil,24,1.042,0,
+S04,Coat & Cover,Coated,33,0.939,21,0.81
+S01,Northline Paperboard,SBS,36,0.917,30,0.7
+S09,FlutePro,Microflute,44,0.886,34,0.706
+S08,Rio Kraft Mills,Kraft,24,0.875,21,0.571
+S11,InkWorks,Inks & varnish,24,0.833,0,
+S05,Brillo Papers,Coated,31,0.581,21,0.571
+S06,EcoKraft,Kraft,37,0.541,27,0.704

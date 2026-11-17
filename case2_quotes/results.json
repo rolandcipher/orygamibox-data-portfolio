@@ -1,0 +1,298 @@
+{
+  "quotes": 3000,
+  "decided": 2954,
+  "win_rate_all_decided": 0.3842247799593771,
+  "analysed": 2807,
+  "win_rate_analysed": 0.40434627716423227,
+  "by_bucket": [
+    {
+      "bucket": "0-2 days",
+      "quotes": 806,
+      "won": 433,
+      "win_rate": 0.5372
+    },
+    {
+      "bucket": "3-4 days",
+      "quotes": 1082,
+      "won": 470,
+      "win_rate": 0.4344
+    },
+    {
+      "bucket": "5-7 days",
+      "quotes": 728,
+      "won": 208,
+      "win_rate": 0.2857
+    },
+    {
+      "bucket": "8+ days",
+      "quotes": 191,
+      "won": 24,
+      "win_rate": 0.1257
+    }
+  ],
+  "sector_bucket_win_rate": [
+    {
+      "sector": "Cosmetics",
+      "0-2 days": 0.4,
+      "3-4 days": 0.4556,
+      "5-7 days": 0.3441,
+      "8+ days": 0.2319
+    },
+    {
+      "sector": "E-commerce & Fashion",
+      "0-2 days": 0.6113,
+      "3-4 days": 0.4613,
+      "5-7 days": 0.2222,
+      "8+ days": 0.0217
+    },
+    {
+      "sector": "Food & Beverage",
+      "0-2 days": 0.4912,
+      "3-4 days": 0.4169,
+      "5-7 days": 0.2802,
+      "8+ days": 0.06
+    },
+    {
+      "sector": "Technology",
+      "0-2 days": 0.5203,
+      "3-4 days": 0.3787,
+      "5-7 days": 0.2621,
+      "8+ days": 0.1538
+    }
+  ],
+  "sector_bucket_n": [
+    {
+      "sector": "Cosmetics",
+      "0-2 days": 100,
+      "3-4 days": 270,
+      "5-7 days": 247,
+      "8+ days": 69
+    },
+    {
+      "sector": "E-commerce & Fashion",
+      "0-2 days": 355,
+      "3-4 days": 336,
+      "5-7 days": 171,
+      "8+ days": 46
+    },
+    {
+      "sector": "Food & Beverage",
+      "0-2 days": 228,
+      "3-4 days": 307,
+      "5-7 days": 207,
+      "8+ days": 50
+    },
+    {
+      "sector": "Technology",
+      "0-2 days": 123,
+      "3-4 days": 169,
+      "5-7 days": 103,
+      "8+ days": 26
+    }
+  ],
+  "corr_overall": -0.23272443126489487,
+  "corr_by_sector": {
+    "Cosmetics": -0.1569768545621865,
+    "E-commerce & Fashion": -0.3044992608599208,
+    "Food & Beverage": -0.21203945357301243,
+    "Technology": -0.23922069512569138
+  },
+  "price_speed": [
+    {
+      "markup_quartile": 1,
+      "speed": "Fast (0-4 days)",
+      "quotes": 478,
+      "avg_markup": 1.1488,
+      "win_rate": 0.5983
+    },
+    {
+      "markup_quartile": 1,
+      "speed": "Slow (5+ days)",
+      "quotes": 216,
+      "avg_markup": 1.1496,
+      "win_rate": 0.3148
+    },
+    {
+      "markup_quartile": 2,
+      "speed": "Fast (0-4 days)",
+      "quotes": 477,
+      "avg_markup": 1.2465,
+      "win_rate": 0.501
+    },
+    {
+      "markup_quartile": 2,
+      "speed": "Slow (5+ days)",
+      "quotes": 217,
+      "avg_markup": 1.2462,
+      "win_rate": 0.2903
+    },
+    {
+      "markup_quartile": 3,
+      "speed": "Fast (0-4 days)",
+      "quotes": 442,
+      "avg_markup": 1.3187,
+      "win_rate": 0.457
+    },
+    {
+      "markup_quartile": 3,
+      "speed": "Slow (5+ days)",
+      "quotes": 252,
+      "avg_markup": 1.3172,
+      "win_rate": 0.2222
+    },
+    {
+      "markup_quartile": 4,
+      "speed": "Fast (0-4 days)",
+      "quotes": 465,
+      "avg_markup": 1.42,
+      "win_rate": 0.3505
+    },
+    {
+      "markup_quartile": 4,
+      "speed": "Slow (5+ days)",
+      "quotes": 229,
+      "avg_markup": 1.4188,
+      "win_rate": 0.1878
+    }
+  ],
+  "markup_won_vs_lost": {
+    "Lost": 1.2977,
+    "Won": 1.2619
+  },
+  "price_by_size": {
+    "Large": 1.178,
+    "Medium": 1.279,
+    "Small": 1.3776
+  },
+  "win_rate_by_size": {
+    "Large": 0.5106,
+    "Medium": 0.4098,
+    "Small": 0.3072
+  },
+  "loss_reason_share": {
+    "Not recorded": 0.4513,
+    "Price": 0.2556,
+    "Lead time": 0.1182,
+    "Went with competitor": 0.0891,
+    "Project cancelled": 0.0858
+  },
+  "loss_reason_share_recorded_only": {
+    "Price": 0.4659,
+    "Lead time": 0.2154,
+    "Went with competitor": 0.1623,
+    "Project cancelled": 0.1563
+  },
+  "sellers": [
+    {
+      "seller": "A. Ruiz",
+      "quotes": 529,
+      "avg_response_days": 3.6635,
+      "win_rate": 0.431,
+      "win_rate_rank": 2
+    },
+    {
+      "seller": "D. Ramos",
+      "quotes": 496,
+      "avg_response_days": 4.6169,
+      "win_rate": 0.4073,
+      "win_rate_rank": 3
+    },
+    {
+      "seller": "L. Vega",
+      "quotes": 637,
+      "avg_response_days": 5.5573,
+      "win_rate": 0.3108,
+      "win_rate_rank": 5
+    },
+    {
+      "seller": "M. Costa",
+      "quotes": 602,
+      "avg_response_days": 2.9701,
+      "win_rate": 0.4884,
+      "win_rate_rank": 1
+    },
+    {
+      "seller": "P. Soto",
+      "quotes": 543,
+      "avg_response_days": 3.6832,
+      "win_rate": 0.3923,
+      "win_rate_rank": 4
+    }
+  ],
+  "sellers_within_speed": [
+    {
+      "seller": "A. Ruiz",
+      "Fast (0-4 days)": 0.5012,
+      "Slow (5+ days)": 0.2063
+    },
+    {
+      "seller": "D. Ramos",
+      "Fast (0-4 days)": 0.4811,
+      "Slow (5+ days)": 0.2753
+    },
+    {
+      "seller": "L. Vega",
+      "Fast (0-4 days)": 0.3859,
+      "Slow (5+ days)": 0.2652
+    },
+    {
+      "seller": "M. Costa",
+      "Fast (0-4 days)": 0.5356,
+      "Slow (5+ days)": 0.2396
+    },
+    {
+      "seller": "P. Soto",
+      "Fast (0-4 days)": 0.4381,
+      "Slow (5+ days)": 0.2358
+    }
+  ],
+  "sector_mix_by_seller": [
+    {
+      "seller": "A. Ruiz",
+      "Cosmetics": 0.153,
+      "E-commerce & Fashion": 0.391,
+      "Food & Beverage": 0.295,
+      "Technology": 0.161
+    },
+    {
+      "seller": "D. Ramos",
+      "Cosmetics": 0.216,
+      "E-commerce & Fashion": 0.369,
+      "Food & Beverage": 0.266,
+      "Technology": 0.149
+    },
+    {
+      "seller": "L. Vega",
+      "Cosmetics": 0.458,
+      "E-commerce & Fashion": 0.16,
+      "Food & Beverage": 0.242,
+      "Technology": 0.14
+    },
+    {
+      "seller": "M. Costa",
+      "Cosmetics": 0.171,
+      "E-commerce & Fashion": 0.364,
+      "Food & Beverage": 0.317,
+      "Technology": 0.148
+    },
+    {
+      "seller": "P. Soto",
+      "Cosmetics": 0.19,
+      "E-commerce & Fashion": 0.363,
+      "Food & Beverage": 0.293,
+      "Technology": 0.155
+    }
+  ],
+  "scenario": {
+    "slow_quotes": 919,
+    "slow_win_rate": 0.25244831338411317,
+    "reference_win_rate_3_4_days": 0.4343807763401109,
+    "extra_wins_if_gap_fully_closed": 167.19593345656193,
+    "share_assumed_causal": 0.5,
+    "extra_wins_assumed": 83.59796672828097,
+    "avg_order_value": 3506.5486431718064,
+    "extra_revenue": 293140.33680297545,
+    "overall_margin_pct": 0.12544964610720755,
+    "extra_margin": 36774.3515116809
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "orders": 1135,
+  "scrap_units": 865170,
+  "input_units": 10963717,
+  "scrap_rate_weighted": 0.07891210617712953,
+  "scrap_cost_total": 113260.47039999999,
+  "scrap_cost_share_of_revenue": 0.028457885761591178,
+  "mean_order_scrap_pct": 0.09412106564249162,
+  "median_order_scrap_pct": 0.08442776735459662,
+  "p90_order_scrap_pct": 0.14981658742616805,
+  "outlier_threshold": 0.18412126434615805,
+  "outlier_orders": 50,
+  "top10pct_orders_share_of_scrap_cost": 0.44035832734807356,
+  "by_run_size": [
+    {
+      "run_size": "Under 1,000",
+      "orders": 80,
+      "input_units": 62983,
+      "scrap_units": 9549,
+      "scrap_cost": 1207.2659,
+      "mean_pct": 0.1541,
+      "median_pct": 0.147,
+      "weighted_rate": 0.1516
+    },
+    {
+      "run_size": "1,000-2,999",
+      "orders": 283,
+      "input_units": 616385,
+      "scrap_units": 66779,
+      "scrap_cost": 8862.1509,
+      "mean_pct": 0.1095,
+      "median_pct": 0.1034,
+      "weighted_rate": 0.1083
+    },
+    {
+      "run_size": "3,000-9,999",
+      "orders": 477,
+      "input_units": 3083232,
+      "scrap_units": 257953,
+      "scrap_cost": 33325.431,
+      "mean_pct": 0.0864,
+      "median_pct": 0.0793,
+      "weighted_rate": 0.0837
+    },
+    {
+      "run_size": "10,000+",
+      "orders": 295,
+      "input_units": 7201117,
+      "scrap_units": 530889,
+      "scrap_cost": 69865.6226,
+      "mean_pct": 0.0756,
+      "median_pct": 0.0667,
+      "weighted_rate": 0.0737
+    }
+  ],
+  "by_finish": [
+    {
+      "finish": "Emboss",
+      "orders": 69,
+      "input_units": 738035,
+      "scrap_units": 69611,
+      "scrap_cost": 8670.8485,
+      "mean_pct": 0.1188,
+      "median_pct": 0.1097,
+      "weighted_rate": 0.0943
+    },
+    {
+      "finish": "Foil",
+      "orders": 115,
+      "input_units": 1173772,
+      "scrap_units": 124349,
+      "scrap_cost": 15761.9493,
+      "mean_pct": 0.1235,
+      "median_pct": 0.1116,
+      "weighted_rate": 0.1059
+    },
+    {
+      "finish": "Matte lamination",
+      "orders": 351,
+      "input_units": 3297165,
+      "scrap_units": 268596,
+      "scrap_cost": 36814.024,
+      "mean_pct": 0.0972,
+      "median_pct": 0.0871,
+      "weighted_rate": 0.0815
+    },
+    {
+      "finish": "No finish",
+      "orders": 600,
+      "input_units": 5754745,
+      "scrap_units": 402614,
+      "scrap_cost": 52013.6486,
+      "mean_pct": 0.0839,
+      "median_pct": 0.0762,
+      "weighted_rate": 0.07
+    }
+  ],
+  "by_board": [
+    {
+      "board_type": "Coated",
+      "orders": 194,
+      "input_units": 2038295,
+      "scrap_units": 155904,
+      "scrap_cost": 19792.6905,
+      "mean_pct": 0.0895,
+      "median_pct": 0.0799,
+      "weighted_rate": 0.0765
+    },
+    {
+      "board_type": "Kraft",
+      "orders": 298,
+      "input_units": 2974823,
+      "scrap_units": 241167,
+      "scrap_cost": 24948.8032,
+      "mean_pct": 0.0946,
+      "median_pct": 0.0846,
+      "weighted_rate": 0.0811
+    },
+    {
+      "board_type": "Microflute",
+      "orders": 297,
+      "input_units": 2652387,
+      "scrap_units": 213447,
+      "scrap_cost": 36434.1495,
+      "mean_pct": 0.097,
+      "median_pct": 0.0866,
+      "weighted_rate": 0.0805
+    },
+    {
+      "board_type": "SBS",
+      "orders": 346,
+      "input_units": 3298212,
+      "scrap_units": 254652,
+      "scrap_cost": 32084.8272,
+      "mean_pct": 0.0937,
+      "median_pct": 0.0834,
+      "weighted_rate": 0.0772
+    }
+  ],
+  "by_stage": [
+    {
+      "stage": "Die-cutting",
+      "input_units": 10513332,
+      "scrap_units": 251953,
+      "rate": 0.024
+    },
+    {
+      "stage": "Finishing",
+      "input_units": 5063738,
+      "scrap_units": 124575,
+      "rate": 0.0246
+    },
+    {
+      "stage": "Gluing",
+      "input_units": 10261379,
+      "scrap_units": 99603,
+      "rate": 0.0097
+    },
+    {
+      "stage": "Printing",
+      "input_units": 10963717,
+      "scrap_units": 325810,
+      "rate": 0.0297
+    },
+    {
+      "stage": "Quality control",
+      "input_units": 10161776,
+      "scrap_units": 63229,
+      "rate": 0.0062
+    }
+  ],
+  "offset_machine_shift": [
+    {
+      "machine_id": "M01",
+      "shift": "Afternoon",
+      "runs": 162,
+      "input_units": 1714591,
+      "scrap_units": 45575,
+      "rate": 0.0266
+    },
+    {
+      "machine_id": "M01",
+      "shift": "Morning",
+      "runs": 229,
+      "input_units": 2189719,
+      "scrap_units": 67266,
+      "rate": 0.0307
+    },
+    {
+      "machine_id": "M01",
+      "shift": "Night",
+      "runs": 136,
+      "input_units": 1618370,
+      "scrap_units": 43764,
+      "rate": 0.027
+    },
+    {
+      "machine_id": "M02",
+      "shift": "Afternoon",
+      "runs": 118,
+      "input_units": 1084826,
+      "scrap_units": 36872,
+      "rate": 0.034
+    },
+    {
+      "machine_id": "M02",
+      "shift": "Morning",
+      "runs": 180,
+      "input_units": 2192518,
+      "scrap_units": 62526,
+      "rate": 0.0285
+    },
+    {
+      "machine_id": "M02",
+      "shift": "Night",
+      "runs": 139,
+      "input_units": 1323326,
+      "scrap_units": 58697,
+      "rate": 0.0444
+    }
+  ],
+  "finish_within_size_median": [
+    {
+      "run_size": "Under 1,000",
+      "Foil/Emboss": 0.1846,
+      "Other": 0.1381
+    },
+    {
+      "run_size": "1,000-2,999",
+      "Foil/Emboss": 0.1422,
+      "Other": 0.0975
+    },
+    {
+      "run_size": "3,000-9,999",
+      "Foil/Emboss": 0.1001,
+      "Other": 0.0768
+    },
+    {
+      "run_size": "10,000+",
+      "Foil/Emboss": 0.0913,
+      "Other": 0.0611
+    }
+  ],
+  "fit_fixed_units_per_order": 108.04933114138139,
+  "fit_variable_rate_per_unit": 0.073874792603361,
+  "fit_r": 0.8158685465478904,
+  "m2_night_rate": 0.04435566141676352,
+  "m2_other_rate": 0.030328827245476826,
+  "m2_night_excess_units": 18562.074356552133,
+  "m2_night_excess_cost": 2413.5946377939317,
+  "gap_cost_total": 48246.50075,
+  "gap_cost_short_runs_share": 0.12711799725703424,
+  "short_runs_order_share": 0.3198237885462555,
+  "short_runs_scrapcost_share": 0.08890495302057301,
+  "reasons_share": {
+    "Makeready / setup": 0.1822,
+    "Material defect": 0.1794,
+    "Operator error": 0.1644,
+    "Not recorded": 0.1341,
+    "Colour deviation": 0.0867,
+    "Registration error": 0.0759,
+    "Die-cut misregistration": 0.0626,
+    "Lamination defect": 0.0304,
+    "Glue failure": 0.0248,
+    "Foil misalignment": 0.0218,
+    "Visual defect": 0.0195,
+    "Dimension out of spec": 0.0182
+  }
+}

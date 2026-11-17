@@ -1,0 +1,9 @@
+markup_quartile,speed,quotes,avg_markup,win_rate
+1,Fast (0-4 days),478,1.1488,0.5983
+1,Slow (5+ days),216,1.1496,0.3148
+2,Fast (0-4 days),477,1.2465,0.501
+2,Slow (5+ days),217,1.2462,0.2903
+3,Fast (0-4 days),442,1.3187,0.457
+3,Slow (5+ days),252,1.3172,0.2222
+4,Fast (0-4 days),465,1.42,0.3505
+4,Slow (5+ days),229,1.4188,0.1878
