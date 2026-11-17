@@ -1,0 +1,13 @@
+supplier_id,supplier_name,main_material
+S01,Northline Paperboard,SBS
+S02,Cartonera Sur,SBS
+S03,Pacific Board Co.,SBS
+S04,Coat & Cover,Coated
+S05,Brillo Papers,Coated
+S06,EcoKraft,Kraft
+S07,Andean Kraft,Kraft
+S08,Rio Kraft Mills,Kraft
+S09,FlutePro,Microflute
+S10,Corrugados del Plata,Microflute
+S11,InkWorks,Inks & varnish
+S12,FoilTech,Foil

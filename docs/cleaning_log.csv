@@ -1,0 +1,35 @@
+table,issue,rows_affected,action
+clients,Inconsistent sector spelling (case / trailing spaces),12,Mapped to the four canonical sector names
+clients,Missing city,2,Filled with 'Unknown'
+quotes,request_date stored as DD/MM/YYYY,102,Parsed both formats into one date type
+quotes,response_date stored as DD/MM/YYYY,145,Parsed both formats into one date type
+quotes,Inconsistent board_type labels,173,Mapped to canonical labels
+quotes,Inconsistent print_type labels,167,Mapped to canonical labels
+quotes,Inconsistent finish labels,229,Mapped to canonical labels
+quotes,Dimensions entered in cm instead of mm,51,Multiplied the three dimensions by 10
+quotes,"Duplicate quotes (same content, different quote_id)",60,"Kept the first quote_id, dropped the rest"
+quotes,client_id not found in clients table,5,Recovered 1 from the related order; 4 marked UNKNOWN (excluded from client analysis)
+quotes,Missing loss_reason on lost quotes,821,Filled with 'Not recorded' (not guessed)
+quotes,Missing response_date (not won),148,Left empty; excluded from response-time analysis
+quotes,Missing cost_estimate,31,Left empty; markup not calculated
+quotes,Rows after cleaning,3000,Started with 3060 rows
+orders,delivered_date stored as DD/MM/YYYY,32,Parsed both formats into one date type
+orders,Missing qty_delivered on delivered orders,11,Left empty
+production_stages,Exact duplicate rows,50,Dropped
+production_stages,order_id not found in orders,4,Dropped
+production_stages,Inconsistent stage labels,252,Mapped to canonical labels
+production_stages,machine_id in lower case,77,Upper-cased
+production_stages,Inconsistent shift labels,109,Standardised
+production_stages,start_ts stored as DD/MM/YYYY HH:MM,133,Parsed both formats
+production_stages,end_ts earlier than start_ts,12,Swapped the two timestamps
+production_stages,Negative qty_in,22,Treated as a sign error: absolute value
+production_stages,Negative scrap_units,13,Treated as a sign error: absolute value
+production_stages,qty_in - scrap_units does not equal qty_out (after fixes),0,None needed (check passed)
+production_stages,Missing scrap_reason where scrap > 0,612,Filled with 'Not recorded'
+production_stages,Rows after cleaning,6210,Started with 6264 rows
+order_costs,Missing labor_cost,20,Estimated as machine_cost x median labor/machine ratio (0.68)
+order_costs,Missing logistics_cost,32,Estimated with a straight-line fit on quantity (fixed 36 + 0.0059 per unit)
+machine_downtime,Inconsistent cause labels,15,Mapped to canonical labels
+machine_downtime,Missing cause,17,Filled with 'Unknown'
+purchases,received_date stored as DD/MM/YYYY,7,Parsed both formats
+purchases,Missing quantity_m2,6,Left empty

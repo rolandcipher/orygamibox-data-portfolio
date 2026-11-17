@@ -1,0 +1,9 @@
+machine_id,machine_name,stage,install_year
+M01,Offset Press A,Printing,2019
+M02,Offset Press B,Printing,2014
+M03,Digital Press,Printing,2021
+M04,Laminator,Finishing,2018
+M05,Foil & Emboss Unit,Finishing,2017
+M06,Die-cutter A,Die-cutting,2020
+M07,Die-cutter B,Die-cutting,2013
+M08,Folder-gluer,Gluing,2016

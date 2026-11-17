@@ -1,0 +1,61 @@
+client_id,client_name,sector,client_size,city,signup_date,late_penalty_clause
+C001,Drift Market,E-commerce & Fashion,Medium,Rosario,2021-01-14,False
+C002,Velvet Beauty,Cosmetics,Small,Rosario,2018-11-07,False
+C003,Cacao Pantry,Food & Beverage,Small,La Plata,2021-02-28,False
+C004,Ember Wear,E-commerce & Fashion,Large,Buenos Aires,2022-04-17,True
+C005,Cobalt Devices,Technology,Small,Buenos Aires,2019-12-15,False
+C006,Opal Labs,Cosmetics ,Small,Santa Fe,2023-12-27,False
+C007,Aurora Skincare,COSMETICS,Medium,Rosario,2020-05-10,True
+C008,Lumen Beauty,Cosmetics,Medium,Buenos Aires,2022-02-28,False
+C009,Sunrise Foods,Food & Beverage,Small,Cordoba,2020-09-06,False
+C010,Nectar Cosmetics,cosmetics,Small,Buenos Aires,2021-04-03,False
+C011,Atlas Collective,E-commerce & Fashion,Small,Buenos Aires,2019-11-25,False
+C012,Drift Studio,E-commerce & Fashion,Small,Rosario,2022-05-16,False
+C013,Pearl Labs,Cosmetics,Small,Buenos Aires,2022-05-12,False
+C014,Drift Collective,E-commerce & Fashion,Small,Buenos Aires,2023-05-31,False
+C015,Pearl Botanics,Cosmetics,Large,Buenos Aires,2021-08-26,False
+C016,Kite Collective,E-COMMERCE & FASHION,Small,Buenos Aires,2020-07-11,False
+C017,Zenith Systems,Technology,Medium,Rosario,2020-07-19,True
+C018,Nova Collective,E-commerce & Fashion,Small,Santa Fe,2022-04-03,False
+C019,Atlas Wear,E-commerce & Fashion,Medium,Buenos Aires,2020-11-26,True
+C020,Harvest Foods,Food & Beverage,Small,Buenos Aires,2021-09-26,False
+C021,Lumen Botanics,COSMETICS,Medium,Buenos Aires,2019-03-14,False
+C022,Golden Chocolates,Food & Beverage,Small,Buenos Aires,2021-09-01,False
+C023,Olive Tea Co.,Food & Beverage,Small,Buenos Aires,2021-01-13,True
+C024,Cobalt Electronics,Technology,Medium,Buenos Aires,2020-10-29,False
+C025,Opal Cosmetics,Cosmetics,Small,Santa Fe,2023-06-27,False
+C026,Olive Foods,food & beverage,Small,La Plata,2020-04-14,False
+C027,Zenith Tech,Technology,Small,Buenos Aires,2021-06-03,False
+C028,Alpine Pantry,Food & Beverage,Medium,La Plata,2018-01-18,False
+C029,Maple Tea Co.,Food & Beverage,Small,Buenos Aires,2022-08-09,True
+C030,Aurora Botanics,Cosmetics,Small,Rosario,2022-11-28,False
+C031,Loop Studio,E-commerce & Fashion,Small,,2023-08-29,False
+C032,Cacao Tea Co.,Food & Beverage,Small,Buenos Aires,2021-02-18,False
+C033,Orbit Gadgets,Technology ,Medium,Buenos Aires,2021-07-18,True
+C034,Cacao Foods,Food & Beverage,Small,Rosario,2021-10-18,True
+C035,Urban Market,E-commerce & Fashion,Medium,Santa Fe,2020-03-28,False
+C036,Nova Market,E-commerce & Fashion,Small,La Plata,2019-08-25,False
+C037,Urban Apparel,E-commerce & Fashion,Large,La Plata,2019-03-31,True
+C038,Helix Gadgets,Technology,Medium,Cordoba,2021-03-10,False
+C039,Helix Tech,technology,Small,Santa Fe,2022-07-08,False
+C040,Opal Skincare,Cosmetics,Medium,La Plata,2018-03-18,True
+C041,Velvet Skincare,Cosmetics,Small,Rosario,2018-06-10,False
+C042,Nectar Labs,Cosmetics,Small,La Plata,2020-12-02,False
+C043,Quanta Gadgets,Technology,Small,Buenos Aires,2018-11-29,False
+C044,Urban Collective,E-commerce & Fashion,Small,Buenos Aires,2021-02-24,True
+C045,Alpine Gourmet,Food & Beverage,Medium,Santa Fe,2021-05-27,False
+C046,Quanta Tech,Technology,Medium,,2019-10-07,False
+C047,Sunrise Chocolates,Food & Beverage,Small,Buenos Aires,2021-05-05,False
+C048,Atlas Studio,E-commerce & Fashion,Large,Buenos Aires,2019-08-22,True
+C049,Pearl Cosmetics,Cosmetics,Small,Mendoza,2021-11-06,False
+C050,Lumen Labs,Cosmetics,Small,Rosario,2021-09-27,False
+C051,Ember Collective,E-COMMERCE & FASHION,Small,Cordoba,2018-11-04,False
+C052,Golden Tea Co.,food & beverage,Small,Mendoza,2018-08-08,False
+C053,Harvest Gourmet,FOOD & BEVERAGE,Medium,La Plata,2020-06-03,False
+C054,Golden Gourmet,Food & Beverage,Small,Buenos Aires,2018-10-04,True
+C055,Sunrise Gourmet,Food & Beverage,Medium,La Plata,2020-03-22,False
+C056,Drift Wear,E-commerce & Fashion,Medium,Rosario,2019-02-15,False
+C057,Golden Foods,Food & Beverage,Medium,La Plata,2023-01-02,False
+C058,Terra Gourmet,Food & Beverage,Large,Cordoba,2020-01-26,True
+C059,Bloom Cosmetics,Cosmetics ,Medium,Buenos Aires,2019-03-08,False
+C060,Ember Market,E-commerce & Fashion,Small,Buenos Aires,2023-11-03,False

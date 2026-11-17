@@ -1,0 +1,273 @@
+{
+  "orders": 1135,
+  "revenue": 3979932.71,
+  "margin": 499281.15,
+  "margin_pct": 0.12544964610720769,
+  "clients": 60,
+  "by_client_size": [
+    {
+      "client_size": "Large",
+      "orders": 386,
+      "revenue": 2179704.1,
+      "margin": 182191.17,
+      "margin_pct": 0.0836,
+      "share_of_revenue": 0.5477,
+      "share_of_margin": 0.3649
+    },
+    {
+      "client_size": "Medium",
+      "orders": 475,
+      "revenue": 1381243.31,
+      "margin": 226241.81,
+      "margin_pct": 0.1638,
+      "share_of_revenue": 0.3471,
+      "share_of_margin": 0.4531
+    },
+    {
+      "client_size": "Small",
+      "orders": 274,
+      "revenue": 418985.3,
+      "margin": 90848.17,
+      "margin_pct": 0.2168,
+      "share_of_revenue": 0.1053,
+      "share_of_margin": 0.182
+    }
+  ],
+  "by_sector": [
+    {
+      "sector": "Cosmetics",
+      "orders": 264,
+      "revenue": 1048297.81,
+      "margin": 133193.48,
+      "margin_pct": 0.1271,
+      "share_of_revenue": 0.2634,
+      "share_of_margin": 0.2668
+    },
+    {
+      "sector": "E-commerce & Fashion",
+      "orders": 411,
+      "revenue": 1565137.54,
+      "margin": 163241.15,
+      "margin_pct": 0.1043,
+      "share_of_revenue": 0.3933,
+      "share_of_margin": 0.327
+    },
+    {
+      "sector": "Food & Beverage",
+      "orders": 301,
+      "revenue": 930693.99,
+      "margin": 124610.34,
+      "margin_pct": 0.1339,
+      "share_of_revenue": 0.2338,
+      "share_of_margin": 0.2496
+    },
+    {
+      "sector": "Technology",
+      "orders": 159,
+      "revenue": 435803.37,
+      "margin": 78236.18,
+      "margin_pct": 0.1795,
+      "share_of_revenue": 0.1095,
+      "share_of_margin": 0.1567
+    }
+  ],
+  "by_order_size": [
+    {
+      "order_size": "1) Under 1,000",
+      "orders": 80,
+      "revenue": 53073.33,
+      "margin": 10871.04,
+      "margin_pct": 0.2048,
+      "share_of_revenue": 0.0133,
+      "share_of_margin": 0.0218
+    },
+    {
+      "order_size": "2) 1,000-2,999",
+      "orders": 283,
+      "revenue": 318918.88,
+      "margin": 52525.4,
+      "margin_pct": 0.1647,
+      "share_of_revenue": 0.0801,
+      "share_of_margin": 0.1052
+    },
+    {
+      "order_size": "3) 3,000-9,999",
+      "orders": 477,
+      "revenue": 1177736.32,
+      "margin": 168866.44,
+      "margin_pct": 0.1434,
+      "share_of_revenue": 0.2959,
+      "share_of_margin": 0.3382
+    },
+    {
+      "order_size": "4) 10,000+",
+      "orders": 295,
+      "revenue": 2430204.18,
+      "margin": 267018.27,
+      "margin_pct": 0.1099,
+      "share_of_revenue": 0.6106,
+      "share_of_margin": 0.5348
+    }
+  ],
+  "by_finish": [
+    {
+      "finish_group": "No finish",
+      "orders": 600,
+      "revenue": 1889422.71,
+      "margin": 219147.05,
+      "margin_pct": 0.116,
+      "share_of_revenue": 0.4747,
+      "share_of_margin": 0.4389
+    },
+    {
+      "finish_group": "With finish",
+      "orders": 535,
+      "revenue": 2090510.0,
+      "margin": 280134.1,
+      "margin_pct": 0.134,
+      "share_of_revenue": 0.5253,
+      "share_of_margin": 0.5611
+    }
+  ],
+  "top5_share_of_revenue": 0.5476736062705945,
+  "top5_share_of_margin": 0.3649069667460908,
+  "top5_margin_pct_range": [
+    0.07405538934560905,
+    0.09325436930243587
+  ],
+  "top5_all_large": true,
+  "clients_for_80pct_revenue": 17,
+  "clients_for_80pct_margin": 23,
+  "corr_revenue_vs_margin_pct_clients": -0.6500415134701656,
+  "spearman_revenue_vs_margin_pct_clients": -0.5297582661850514,
+  "spearman_quantity_vs_margin_pct_orders": -0.33500546277447407,
+  "clients_below_10pct_margin": 6,
+  "revenue_share_clients_below_10pct": 0.5491889735995059,
+  "orders_margin_below_5pct": 0.14977973568281938,
+  "orders_negative_margin": 0.07312775330396476,
+  "discounted_orders_share": 0.35330396475770925,
+  "avg_discount_by_size": {
+    "Large": 0.0184,
+    "Medium": 0.0115,
+    "Small": 0.0126
+  },
+  "avg_markup_by_size": {
+    "Large": 1.173,
+    "Medium": 1.274,
+    "Small": 1.365
+  },
+  "bridge": {
+    "margin_at_quote": 732001.21,
+    "discounts": -55393.63,
+    "cost_above_estimate": -175077.26,
+    "late_penalties": -3388.4,
+    "actual_margin": 498141.92000000004,
+    "material_part_of_overrun": -53120.83,
+    "time_and_other_part_of_overrun": -121956.43000000001,
+    "orders_in_bridge": 1120,
+    "revenue_in_bridge": 3931888.3
+  },
+  "late_penalties_total": 3421.38,
+  "orders_with_penalty": 59,
+  "penalty_share_of_cost": 0.0009829711308419508,
+  "cost_share_by_size": [
+    {
+      "client_size": "Large",
+      "material_cost": 0.435,
+      "consumables_cost": 0.085,
+      "machine_cost": 0.258,
+      "labor_cost": 0.178,
+      "logistics_and_tooling": 0.042
+    },
+    {
+      "client_size": "Medium",
+      "material_cost": 0.403,
+      "consumables_cost": 0.083,
+      "machine_cost": 0.264,
+      "labor_cost": 0.181,
+      "logistics_and_tooling": 0.068
+    },
+    {
+      "client_size": "Small",
+      "material_cost": 0.34,
+      "consumables_cost": 0.073,
+      "machine_cost": 0.278,
+      "labor_cost": 0.19,
+      "logistics_and_tooling": 0.118
+    }
+  ],
+  "cost_share_total": {
+    "material_cost": 0.416,
+    "consumables_cost": 0.083,
+    "machine_cost": 0.262,
+    "labor_cost": 0.18,
+    "logistics_cost": 0.029,
+    "tooling_cost": 0.029,
+    "late_penalty": 0.001
+  },
+  "scenario_large_clients": [
+    {
+      "price_increase": 0.02,
+      "volume_lost": 0.0,
+      "margin_change": 43594.08199999988
+    },
+    {
+      "price_increase": 0.02,
+      "volume_lost": 0.05,
+      "margin_change": 32304.819399999862
+    },
+    {
+      "price_increase": 0.02,
+      "volume_lost": 0.1,
+      "margin_change": 21015.556799999904
+    },
+    {
+      "price_increase": 0.02,
+      "volume_lost": 0.2,
+      "margin_change": -1562.9684000000707
+    },
+    {
+      "price_increase": 0.03,
+      "volume_lost": 0.0,
+      "margin_change": 65391.12300000008
+    },
+    {
+      "price_increase": 0.03,
+      "volume_lost": 0.05,
+      "margin_change": 53012.00835000008
+    },
+    {
+      "price_increase": 0.03,
+      "volume_lost": 0.1,
+      "margin_change": 40632.89370000007
+    },
+    {
+      "price_increase": 0.03,
+      "volume_lost": 0.2,
+      "margin_change": 15874.664400000067
+    },
+    {
+      "price_increase": 0.05,
+      "volume_lost": 0.0,
+      "margin_change": 108985.20500000002
+    },
+    {
+      "price_increase": 0.05,
+      "volume_lost": 0.05,
+      "margin_change": 94426.38624999998
+    },
+    {
+      "price_increase": 0.05,
+      "volume_lost": 0.1,
+      "margin_change": 79867.56750000003
+    },
+    {
+      "price_increase": 0.05,
+      "volume_lost": 0.2,
+      "margin_change": 50749.93000000002
+    }
+  ],
+  "scenario_breakeven_volume_loss_at_3pct": 0.2641187388954349,
+  "large_revenue": 2179704.1,
+  "large_margin": 182191.16999999998
+}

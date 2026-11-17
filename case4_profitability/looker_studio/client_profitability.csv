@@ -1,0 +1,61 @@
+client_id,client_name,client_size,sector,orders,revenue,margin,penalties,margin_pct,cum_revenue_share
+C015,Pearl Botanics,Large,Cosmetics,79,560930.5,52309.22,0.0,0.0933,0.1409
+C058,Terra Gourmet,Large,Food & Beverage,85,469265.17,39621.25,138.37,0.0844,0.2588
+C048,Atlas Studio,Large,E-commerce & Fashion,77,419950.8,31099.62,570.33,0.0741,0.3644
+C004,Ember Wear,Large,E-commerce & Fashion,76,398597.97,32047.71,680.65,0.0804,0.4645
+C037,Urban Apparel,Large,E-commerce & Fashion,69,330959.66,27113.37,1121.57,0.0819,0.5477
+C024,Cobalt Electronics,Medium,Technology,32,109099.74,21512.62,0.0,0.1972,0.5751
+C035,Urban Market,Medium,E-commerce & Fashion,33,101257.51,16011.06,0.0,0.1581,0.6005
+C038,Helix Gadgets,Medium,Technology,25,99373.77,19581.86,0.0,0.1971,0.6255
+C055,Sunrise Gourmet,Medium,Food & Beverage,24,89674.09,14416.87,0.0,0.1608,0.648
+C040,Opal Skincare,Medium,Cosmetics,25,87674.07,11249.82,44.66,0.1283,0.6701
+C059,Bloom Cosmetics,Medium,Cosmetics,28,86810.02,12805.33,0.0,0.1475,0.6919
+C053,Harvest Gourmet,Medium,Food & Beverage,29,84131.43,14009.74,0.0,0.1665,0.713
+C057,Golden Foods,Medium,Food & Beverage,29,75385.74,13074.9,0.0,0.1734,0.7319
+C008,Lumen Beauty,Medium,Cosmetics,29,75274.06,11677.1,0.0,0.1551,0.7509
+C007,Aurora Skincare,Medium,Cosmetics,20,73256.68,12532.62,35.46,0.1711,0.7693
+C046,Quanta Tech,Medium,Technology,26,72483.67,11416.17,0.0,0.1575,0.7875
+C001,Drift Market,Medium,E-commerce & Fashion,22,71905.14,13527.59,0.0,0.1881,0.8055
+C019,Atlas Wear,Medium,E-commerce & Fashion,27,70997.06,10557.02,393.71,0.1487,0.8234
+C056,Drift Wear,Medium,E-commerce & Fashion,31,67382.54,11361.66,0.0,0.1686,0.8403
+C033,Orbit Gadgets,Medium,Technology,24,52133.82,6485.49,236.69,0.1244,0.8534
+C017,Zenith Systems,Medium,Technology,19,49832.5,8052.16,81.33,0.1616,0.8659
+C021,Lumen Botanics,Medium,Cosmetics,14,42100.39,5403.15,0.0,0.1283,0.8765
+C045,Alpine Gourmet,Medium,Food & Beverage,18,38696.82,6767.67,0.0,0.1749,0.8862
+C028,Alpine Pantry,Medium,Food & Beverage,20,33774.26,5798.98,0.0,0.1717,0.8947
+C002,Velvet Beauty,Small,Cosmetics,13,32887.8,8074.2,0.0,0.2455,0.903
+C041,Velvet Skincare,Small,Cosmetics,12,25256.94,5312.25,0.0,0.2103,0.9093
+C032,Cacao Tea Co.,Small,Food & Beverage,14,24784.96,5237.32,0.0,0.2113,0.9156
+C043,Quanta Gadgets,Small,Technology,6,19949.56,4177.36,0.0,0.2094,0.9206
+C003,Cacao Pantry,Small,Food & Beverage,11,18396.77,4072.68,0.0,0.2214,0.9252
+C039,Helix Tech,Small,Technology,12,17499.94,4687.14,0.0,0.2678,0.9296
+C016,Kite Collective,Small,E-commerce & Fashion,10,16300.29,3288.96,0.0,0.2018,0.9337
+C051,Ember Collective,Small,E-commerce & Fashion,13,16198.68,2919.14,0.0,0.1802,0.9378
+C006,Opal Labs,Small,Cosmetics,7,13537.2,3296.03,0.0,0.2435,0.9412
+C052,Golden Tea Co.,Small,Food & Beverage,8,13449.7,3294.19,0.0,0.2449,0.9445
+C031,Loop Studio,Small,E-commerce & Fashion,9,12596.92,2942.49,0.0,0.2336,0.9477
+C009,Sunrise Foods,Small,Food & Beverage,9,12419.28,2607.23,0.0,0.2099,0.9508
+C042,Nectar Labs,Small,Cosmetics,7,11780.19,2417.72,0.0,0.2052,0.9538
+C030,Aurora Botanics,Small,Cosmetics,9,11321.26,2239.45,0.0,0.1978,0.9566
+C054,Golden Gourmet,Small,Food & Beverage,8,10850.58,2389.91,0.0,0.2203,0.9594
+C036,Nova Market,Small,E-commerce & Fashion,7,10807.05,2363.76,0.0,0.2187,0.9621
+C011,Atlas Collective,Small,E-commerce & Fashion,5,10261.57,2529.59,0.0,0.2465,0.9647
+C026,Olive Foods,Small,Food & Beverage,9,9768.79,2119.83,0.0,0.217,0.9671
+C029,Maple Tea Co.,Small,Food & Beverage,6,9511.34,2303.28,29.33,0.2422,0.9695
+C060,Ember Market,Small,E-commerce & Fashion,8,9485.7,2078.88,0.0,0.2192,0.9719
+C005,Cobalt Devices,Small,Technology,9,9399.31,2114.83,0.0,0.225,0.9742
+C023,Olive Tea Co.,Small,Food & Beverage,7,9230.94,2521.34,0.0,0.2731,0.9766
+C020,Harvest Foods,Small,Food & Beverage,7,9035.34,1737.55,0.0,0.1923,0.9788
+C014,Drift Collective,Small,E-commerce & Fashion,7,8887.85,1666.54,0.0,0.1875,0.9811
+C022,Golden Chocolates,Small,Food & Beverage,8,8754.97,1666.29,0.0,0.1903,0.9833
+C044,Urban Collective,Small,E-commerce & Fashion,7,8281.44,1144.0,60.86,0.1381,0.9853
+C025,Opal Cosmetics,Small,Cosmetics,5,7610.91,1704.99,0.0,0.224,0.9873
+C034,Cacao Foods,Small,Food & Beverage,5,7023.99,1715.08,28.42,0.2442,0.989
+C047,Sunrise Chocolates,Small,Food & Beverage,4,6539.82,1256.23,0.0,0.1921,0.9907
+C013,Pearl Labs,Small,Cosmetics,5,6230.81,1245.83,0.0,0.1999,0.9922
+C027,Zenith Tech,Small,Technology,6,6031.06,208.55,0.0,0.0346,0.9937
+C018,Nova Collective,Small,E-commerce & Fashion,4,5812.76,1577.38,0.0,0.2714,0.9952
+C050,Lumen Labs,Small,Cosmetics,4,5809.93,1473.26,0.0,0.2536,0.9967
+C049,Pearl Cosmetics,Small,Cosmetics,5,5647.73,1133.69,0.0,0.2007,0.9981
+C012,Drift Studio,Small,E-commerce & Fashion,6,5454.6,1012.38,0.0,0.1856,0.9995
+C010,Nectar Cosmetics,Small,Cosmetics,2,2169.32,318.82,0.0,0.147,1.0
